@@ -1,5 +1,4 @@
 # MC-BSR-S2-Legislature
-The MC:BSR-S2 Legislature (Minecraft: Build Square Reconstruction - Season 2)
 
 This repository holds the information for the **Minecraft: Build Square Reconstruction - Season 2** server. It's written using [Obsidian](https://obsidian.md/) and would be best viewed using it because it uses some custom Obsidian features. 
 
