@@ -25,3 +25,10 @@ For every block of variance (each [[Terminology Around Coordinates|Y]] level) re
 > - Taking [[Land]] which varies in height by 3 blocks and making it flat would cost (15 * 3) 45 Diamonds.
 
 The **Land Anti-Mutilation Incentive** must also be consulted and used to charge [[Citizen|Citizens]] when changes to land flatness are prospected after property purchase.
+
+## Underwater Land Incentive
+The **Underwater Land Incentive** works to make it easier to build underwater.
+#### Underwater Construction
+If [[Citizen|Citizens]] anticipate to construct a [[Property#Private Property|Private Property]] where no less than 80% of the volume of the construction is underwater they will receive a 40% floored discount on their [[Property]] purchase. They will be given a book signed by an [[Elected Officials#Elected Official|Elected Official]] signifying this. If the [[Property Owner]] doesn't follow the terms of this deal after buying the [[Property]] they will owe a [[Fines|Fine]] equal to the amount of the Diamonds they were discounted to the [[Government]].
+#### Under-ice Construction
+If [[Citizen|Citizens]] anticipate to construct a [[Property#Private Property|Private Property]] where no less than 80% of the volume of the construction is underwater and the property is underneath [[Terminology Around Coordinates|Y]]62 in a Glacier biome they will receive a 80% floored discount on their [[Property]] purchase. They will be given a book signed by an [[Elected Officials#Elected Official|Elected Official]] signifying this. If the [[Property Owner]] doesn't follow the terms of this deal after buying the [[Property]] they will owe a [[Fines|Fine]] equal to the amount of the Diamonds they were discounted to the [[Government]].

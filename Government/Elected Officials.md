@@ -33,3 +33,5 @@ An **Elected Official** can adjust the [[Taxes#Circumstantial Tax Value|Circumst
 An **Elected Official** can postpone the [[Taxes#Tax Period|Tax Period]] if no **Elected Officials** are present to collect [[Taxes]]. If a [[Taxes#Tax Period|Tax Period]] is postponed, the [[Taxes]] for the current period are owed during the next period.
 #### Issue and Sign Tax Books
 An **Elected Official** must write and sign tax books correctly through the [[Taxes]] process and mail them to [[Citizen|Citizens]].
+#### Earn Governmental Employment Salary
+An **Elected Official** earns a salary for working as part of the [[Government]]. 15% floored, of all collected [[Taxes]] from each [[Taxes#Tax Period|Tax Period]] is split equally (rounded) between all [[Elected Officials]] aside from the [[Treasure#Treasurer|Treasurer]] who receives a double portion.
