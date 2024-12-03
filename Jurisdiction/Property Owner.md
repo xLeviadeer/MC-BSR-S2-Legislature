@@ -22,6 +22,8 @@ If the [[Property]] is the [[Citizen#Right to Be Issued a Primary Residence|prim
 - At least one container must be elevated off of the ground
 - At least one container must have a sign attached to it which contains the word "Mailbox" with a capital M and the rest lowercase with no extra spacing, letters or extenuating format.
 In the case that the [[Property]] is a [[Property#Shared Private Property|Shared Private Property]] where the Mailboxes of each member are not directly accessible without breaking [[Property]] regulations then there must be at least one public Mailbox which is accessible without breaking [[Property]] regulations.
+#### Imitative Signage
+A **Property Owner** may not construct [[Signage]] which imitates proper [[Signage]], falsely labels [[Property#Private Property|Private Property]], [[Property#Shared Private Property|Shared Private Property]] or [[Property#Owned Property|Owned Property]], or intends to confuse players about the legitimacy of proper [[Signage]].
 
 ---
 ## Property Owner Rights
@@ -46,7 +48,7 @@ The **Property Owner** can set a select punishment for breaking these rules but 
 
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]], meaning that rules [[Property Owner|Owned Property Owners]] make are not legally enforceable by the [[Government]]*
 #### Enforcing Members to Participate Collaborative Assignments
-**Property Owners** are allowed to enforce the participation of [[Assignments#Collaborative Assignments|Collaborative Assignments]] on members of the [[Property#Private Property|Private Property]], however they cannot enforce completion.
+**Property Owners** are allowed to enforce the participation of [[Assignments#Collaborative Assignments|Collaborative Assignments]] on members of the [[Property#Shared private Property|Shared Private Property]], however they cannot enforce completion.
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]]*
 #### Right to Provision Property Work
 **Property Owners** are allowed to provision other [[Citizen|Citizens]] to work on their [[Property#Private Property|Private Property]]. In this case the **Property Owner** can allow the working [[Citizen]] to enter without asking for entry permission for the term of construction.
