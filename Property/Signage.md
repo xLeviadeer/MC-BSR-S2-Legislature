@@ -18,7 +18,7 @@ It is considered a [[Crime]] of the [[Property Owner]] to not follow all **Signa
 - If the [[Property]] has no entrances:
 	- One set of relevant **Signage** must be constructed on the structure exterior in an obvious location.
 - If the [[Property]] is all entrances (has no distinct entrances):
-	- A [[Property]] line must be constructed in the ground, in the air or in the water which details where the edge of the property of is This line can be constructed on the [[Property]] border [[Property Owner#Edge Spacing|rather than 1 block in]]. All relevant **Signage** must be placed on the property line for each cardinal direction. If **Signage** appears more than 24 blocks away from each other on the property line, a new set of relevant **Signage** must be placed to make the distance shorter than 24 blocks.
+	- A [[Property]] line must be constructed in the ground, in the air or in the water which details where the edge of the property of is. This line can be constructed on the [[Property]] border [[Property Owner#Edge Spacing|rather than 1 block in]]. All relevant **Signage** must be placed on the property line for each cardinal direction. If **Signage** appears more than 24 blocks away from each other on the property line, a new set of relevant **Signage** must be placed to make the distance shorter than 24 blocks.
 If a portion of the [[Property]] is public and a portion is private then the same rules as stated above must be true for both the private and public portions. Where the transition from public to private must have **Signage** but the transition from private to public does not require **Signage**.
 #### (Shared) Private Property Construction Valid Signage Locations
 If a [[Property#Private Property|Private Property]] or [[Property#Shared Private Property|Shared Private Property]] is under construction on it's borders which would cause the [[Property]] line to become difficult to determine, then place **Signage** of form [[#(Shared) Private Property Under Construction Signage]] according to the locational specifications in [[#Private and Shared Private Property Valid Signage Locations]]
@@ -86,6 +86,14 @@ Text:
 - WARNING
 - private property
 - no entry
+#### Publicized Private Property Signage
+Dye Color: Red
+Glowing: Yes
+Information Type: Property
+Text:
+- GOOD TO GO
+- private property
+- enter at will
 #### (Shared) Private Property Under Construction Signage
 Dye Color: Orange
 Glowing: Yes
@@ -93,7 +101,8 @@ Information Type: Property
 Text:
 - WARNING
 - private property
-- under construction
+- under
+- construction
 #### Unowned Property Signage
 Dye Color: Yellow
 Glowing: Yes
