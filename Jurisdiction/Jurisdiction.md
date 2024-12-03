@@ -39,8 +39,6 @@ If a [[Citizen]] accidentally destroys [[Land]] (an example would be from a cree
 Hazardous materials (lava, lava item, fire, TNT, TNT item) must have the [[Signage#Hazardous Materials Signage|required signage]].
 #### Non-Fundability
 [[Land]] under **Hard Jurisdiction** may *not*  be [[Government|Governmentally]] funded; [[Land]] under **Hard Jurisdiction** may be built on by the [[Government]] without offering pay to do so.
-#### Consistent Assistance with Public Assignments
-[[Citizen|Citizens]] are expected to occasionally assist (once every 2 [[Taxes#Tax Period|Tax Period]]) with [[Assignments#Public Assignments|Public Assignments]].
 
 ---
 # Property Jurisdiction
