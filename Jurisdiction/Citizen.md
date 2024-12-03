@@ -2,7 +2,9 @@
 aliases:
   - Citizens
 ---
-A **Citizen** is a player who enters the [[Property#Jurisdictional Property|Jurisdictional Property]] contrary to the common misconception that a **Citizen** must primarily reside in [[Property#Jurisdictional Property|Jurisdictional Property]].
+A **Citizen** is a player who enters [[Land#Jurisdictional Land|Jurisdictional Land]]. A **Citizen** is also any player who's [[#Right to be Issued a Primary Residence|Primary Residence]] is located in [[Land#Jurisdictional Land|Jurisdictional Land]]. 
+A player is still considered a **Citizen** for 1 real month (30 days) after they have no [[#Right to be Issued a Primary Residence|Primary Residence]] in [[Land#Jurisdictional Land|Jurisdictional Land]], are not currently in [[Land#Jurisdictional Land|Jurisdictional Land]] and haven't been for the last real month (30 days).
+Contrary to the common misconception that a **Citizen** must primarily reside in [[Property#Jurisdictional Property|Jurisdictional Property]], they only must enter it to become a **Citizen** for 1 real month (30 days).
 
 ---
 ## Citizen Rules
@@ -14,6 +16,8 @@ It is considered a [[Crime]] if a **Citizen** breaks a **Citizen Rule**.
 - If the [[Fines|Fine]] is to another [[Citizen]] then the fine must be delivered in the [[Property Owner#Mailbox Construction and Placement|mailbox]] of the finer alongside the fine book. Fine books should be discarded via destruction (cactus, lava, fire) when they are completed.
 #### Staying in Prison for the Decided Term
 **Citizens** cannot leave prison before they are provisioned to leave either by a [[Elected Officials#Elected Official|Elected Official]] or the ending of their imprisonment term.
+#### Consistent Assistance with Public Assignments
+**Citizens** are expected to occasionally assist (once every 2 [[Taxes#Tax Period|Tax Period]]) with [[Assignments#Public Assignments|Public Assignments]] if there are any [[Assignments#Public Assignments|Public Assignments]] which are able to be completed.
 
 ---
 ## Citizen Rights
