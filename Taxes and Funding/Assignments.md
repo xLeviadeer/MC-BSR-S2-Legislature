@@ -21,7 +21,7 @@
 
 ---
 ## Public Assignments
-**Public Assignments** are **Assignments** which are issued by the [[Government]] and completed by [[Citizen|Citizens]]. Depending on the [[Jurisdiction#Land Jurisdiction|Land Jurisdiction]] the [[Government]] may be required to offer payment for **Public Assignments**, however this is not always true and some **Assignments** may not offer payment.
+**Public Assignments** are **Assignments** which are issued by the [[Government]] and completed by [[Citizen|Citizens]]. Depending on the [[Jurisdiction#Land Jurisdiction|Land Jurisdiction]] the [[Government]] may be required to offer payment for **Public Assignments**, however this is not always true and some **Assignments** may not offer payment. 
 
 ---
 ## Collaborative Assignments
