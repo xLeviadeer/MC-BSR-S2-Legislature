@@ -15,77 +15,104 @@ Taking Diamonds or signed tax books from a *Public Tax Mailbox* for personal use
 A *Public Tax Mailbox* is a [[Property Owner#Mailbox Construction and Placement|mailbox]] which follows all [[Property Owner#Mailbox Construction and Placement|Mailbox Construction and Placement]] rules but is located in [[Property#Public Property|Public Property]] and owned by the [[Government]] for use in collecting **Taxes**.
 
 ---
+## Tax Calculation Process
+To calculate **Taxes** a [[Citizen]] should:
+1. Compute the [[Property#Property Metric|Property Metric]] for all [[Property|Properties]] they own. 
+2. Apply [[#Implicit Tax Incentives]] to the [[Property#Property Metric|Property Metrics]]. 
+3. Calculate the [[#Default Tax Amount]].
+4. Apply the [[#Circumstantial Tax Value]] to their [[#Default Tax Amount]].
+
+---
 ## Default Tax Amount
 The **Default Tax Amount** is the amount of **Taxes** that is paid by default.
-#### For Citizens with No Property
+
+If a **Default Tax Amount** comes out with more than 2 decimals, it should be rounded to 2 decimal places.
+#### For Citizens who are *not* Property Owners
 [[Citizen|Citizens]] who are not [[Property Owner|Property Owners]] owe the [[Government]] a tax of 3 Diamonds for every 27 stacks of items they own in storage containers where a stack is defined as a Minecraft item slot which contains something.
 > [!math]
 > $$ \begin{align*}
-> & s = \{\text{each set of 27 stacks}\} \\
-> & d = 3 * \sum_{i} i_s
+>  & \text{Let } m \text{ be the amount of item stacks a player stores in containers at their Primary Residence.} \\
+> \\
+> & \text{Let } d = \lfloor \frac{m}{27} \rfloor * 3 \text{ be the final, default tax amount a Citizen owes.} \\
 > \end{align*} $$
-#### For Private Property Owners
-[[Property Owner|Property Owners]] must pay the sum of all of their [[Property#Property Metric|Property Metrics]] (p) for all of their properties divided by 200 in Diamonds and all ceilinged.
+#### For Citizens who are Property Owners
+The equation below describes how to tax [[Citizen|Citizens]] with different types of [[Property|Properties]]. 
+Generally speaking:
+- [[Property#Private Property|Private Property]] [[Property Owner|Owners]] owe the default tax value
+- [[Property#Shared Private Property|Shared Private Property]] [[Property Owner|Owners]] owe extra tax based on the number of members who have resided (slept, stored, or used as their [[Citizen#Right to be Issued a Primary Residence|primary residence]]) in their [[Property#Shared Private Property|Shared Private Property]].
+- [[Property#Owned Property|Owned Property]] [[Property Owner|Owners]] owe double the taxes of a [[Property#Private Property|Private Property]] [[Property Owner|Owner]]. 
 > [!math]
 > $$
 > \begin{align*}
-> & p = \{\text{all property metrics}\} \\
-> & d = \lceil \frac{\sum_{i} p_i}{200} \rceil
-> \end{align*} $$
-#### For Shared Private Property Owners
-[[Property Owner|Property Owners]] who own a [[Property#Shared Private Property|Shared Private Property]] must pay the sum of all their [[Property#Property Metric|Property Metrics]] (p) for all of their properties divided by 200 all multiplied by 1 plus the number of [[Citizen|Citizens]] who have resided (slept, stored, or used as their [[Citizen#Right to be Issued a Primary Residence|primary residence]]) in the [[Property Owner]]'s [[Property#Private Property|Private Property]] (r) divided by 10 and all ceilinged.
-> [!math]
-> $$ \begin{align*}
-> & p = \{\text{all property metrics}\}
-> & r = \{\text{all residents}\} \\
-> & d = \lceil \frac{\sum_{i} p_i}{200} * (1 + \frac{\sum_{i} r_i}{10}) \rceil 
-> \end{align*}
-> $$
-#### For Owned Property Owners
-[[Property Owner|Property Owners]] who own an [[Property#Owned Property|Owned Property]] must pay the sum of all their [[Property#Property Metric|Property Metrics]] (p) for all of their properties divided by 200 all multiplied by 2 and all ceilinged.
-> [!math]
-> $$ \begin{align*}
-> & p = \{\text{all property metrics}\} \\
-> & d = \lceil \frac{\sum_{i} p_i}{200} * 2 \rceil 
+> & \text{Let } P = [p_1, p_2, ..., p_n] \text{ be a list which represents each property metric a Citizen owns} \\
+> & \text{where incentives have already been applied.} \\
+> \\
+> & \text{Let } R = [r_1, r_2, ..., r_n] \text{ be a list which represents the number of residents which have resided in} \\ 
+> & \text{each Shared Private Property a Citizen owns.} \\
+> & \text{If a Property isn't a Shared Private Property, the value of r should be a default value, 0.} \\
+> \\
+> & \text{Let }f(p, r) = \begin{cases}
+> 	\frac{p}{200}, & \text{if Property is a Private Property} \\
+> 	\frac{p}{200} * (1 + \frac{r}{10}), & \text{if Property is a Shared Private Property} \\
+> 	\frac{p}{100}, & \text{if Propetty is an Owned Property} \\
+> \end{cases} \\
+> & \text{describe the operation to be performed on a Citizen's Property} \\
+> & \text{based on what kind of Property the particular property the Citizen owns is.} \\
+> \\
+> & \text{Let } d = \sum_{i}f(P_i, R_i) \text{ be the default tax amount a Citizen owes.}
 > \end{align*}
 > $$
 
 ---
 ## Circumstantial Tax Value
-The **Circumstantial Tax Value** is a value which modifies the [[#Default Tax Amount]] after all calculations. The **Circumstantial Tax Value** (c) + 1 is multiplied by the [[#Default Tax Amount]] (d) and ceilinged.
+The **Circumstantial Tax Value** is a value which modifies the [[#Default Tax Amount]] after all calculations. The **Circumstantial Tax Value** starts at 0.00 and can be [[Elected Officials#Adjust the Circumstantial Tax Value|adjusted by elected officials]] in increments of 0.05 per [[Elected Officials#Elected Official|Elected Official]]. The **Circumstantial Tax Value** is calculated via the equation below.
 > [!math]
 > $$ \begin{align*} 
-> & c = \text{Circumstantial Tax Value} 
-> & d = \text{Default Tax Amount} \\
-> & t = \lceil (c + 1) * d \rceil 
+> & \text{Let } c \text{ be the Circumstantial Tax Value} \\
+> & \text{Let } d \text{ be the Default Tax Amount} \\
+> \\
+> & \text{Let } t = \lceil (c + 1) * d \rceil \text{ be the total tax amount} 
 > \end{align*} $$
-
-[[Elected Officials]] have the ability to adjust the **Circumstantial Tax Value** on each [[#Tax Period]].
 
 ---
 ## Implicit Tax Incentives
 **Implicit Tax Incentives** are motives to build or not build in certain [[Landarea]] by increasing or decreasing taxes in said [[Landarea]].
+
+**Implicit Tax Incentives** may also be referred to as Incentives or Incentives Programs.
+
+If a [[Property#Property Metric|Property Metric]] with all applicable incentives applied comes out with more than 2 decimals, it should be rounded to 2 decimal places.
+
+All increases and decreases are added together before being applied to the [[Property#Property Metric|Property Metric]] of the [[Property]]. The formula below describes how to compute incentives.
+> [!math]
+> $$ \begin{align*}
+> & \text{Let } x \text{ be the Property Metric of any given Property.} \\
+> & \text{Let } U \text{ be a multiset containing 1 and all applicable incentive values.} \\
+> \\
+> & \text{Let } p = x * (1 + (\sum_{i} U_i)) \text{ be the Property Metric with all applicable incentives applied.}
+> \end{align*} $$
+
+---
 #### Below the Ice Incentive
 The **Below the Ice Incentive** aims to incentivize [[Citizen|Citizens]] to build under the ice and disincentivize them from building above the ice.
 
 [[Property]] which does not have ice above, below or inside of it is not considered in this incentive. 
-
-All increases and decreases are added together before being applied to the total tax amount; the tax amount after applying the [[#Circumstantial Tax Value]] and ceilinged.
-> [!math]
-> $$ \begin{align*}
-> & t = \text{total tax amount}
-> & u = \{1, \text{and all applied incentive values}\} \\
-> & f = \lceil t * (\sum_{i} u_i) \rceil
-> \end{align*} $$
 ###### For Property Owners Under the Ice
 [[Property Owner|Property Owners]] who own [[Property]] *under the ice* get a 30% reduction in **Taxes**. 
 *Under the ice* is defined as [[Property]] which is underneath the ice and leaves an at least 1 block gap between the ice and the property ([[Terminology Around Coordinates|Y]]61 inclusive).
+[[Property|Properties]] with larger (95% or more [[Property#Property Volumetric|volumetric]]) portions *above the ice* are not considered *under the ice*.
 $$ u \cup \{-0.3\} $$
 ###### For Property Owners On or Above the Ice
 [[Property Owner|Property Owners]] who own [[Property]] *above the ice* get a 30% increase in **Taxes**.
 *Above the ice* is defined as [[Property]] which is above the ice ([[Terminology Around Coordinates|Y]]64 inclusive).
+[[Property|Properties]] with larger (95% or more [[Property#Property Volumetric|volumetric]]) portions *under the ice* are not considered *above the ice*.
 $$ u \cup \{0.3\} $$
 ###### For Property Owners who Puncture the Ice
 [[Property Owner|Property Owners]] who own [[Property]] *puncturing the ice* get a 15% increase in **Taxes**.
 *Puncturing the ice* is defined as [[Property]] which is at least partially in the ice ([[Terminology Around Coordinates|Y]]62 - 63 inclusive).
-$$ u \cup \{0.15\} $$
+$$ u \cup \{0.15\} $$---
+#### Private Property over Owned Property Incentive
+The **Private Property over Owned Property Incentive** aims to incentivize [[Citizen|Citizens]] to build within [[Land#Hard Land|Hard Land]]. 
+
+[[Property#Owned Property|Owned Property]] gets a 60% increase in **Taxes**. 
+$$ u \cup \{0.60\} $$
+
