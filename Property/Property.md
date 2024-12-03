@@ -5,23 +5,40 @@ If a **Property** is within 12 blocks (considering only [[Terminology Around Coo
 A **Property** edge cannot be shorter than 5 blocks long. 
 > [!example]
 > A structure with top-down area of dimensions [[Terminology Around Coordinates|X]]1 by [[Terminology Around Coordinates|Z]]10 would be a **Property** of size [[Terminology Around Coordinates|X]]5 by [[Terminology Around Coordinates|Z]]10 with a [[#Property Metric]] of 50.
+#### Abstractly Shaped Property
+All [[Land]] which isn’t exactly rectangular must be either: 
+- Included in one, larger rectangle.
+- Subdivided into smaller rectangles. 
+Information about what  **Abstractly Shaped Property** means when it comes to [[Property]] size can be found in [[#Property Metric]].
 #### Property Verticality
 **Property** only includes [[Land]] which is [[Landarea#Surface Landarea|Surface Landarea]] unless a [[Subsurface Land Provisions|Subsurface Land Provision]] has been allocated.
 
 ---
 ## Property Metric
-**Property Metric** is always calculated as the total area of a property from top-down (considering only [[Terminology Around Coordinates|X]], and [[Terminology Around Coordinates|Z]]). This calculated value is called **Property Metric**.
+**Property Metric** is always calculated as the total area of a [[Property]] from top-down (considering only [[Terminology Around Coordinates|X]], and [[Terminology Around Coordinates|Z]]). This calculated value is called **Property Metric** or simply, Metric.
+
 > [!example]
-> A property with [[Terminology Around Coordinates|X]] size 10 and [[Terminology Around Coordinates|Y]] size 10 would have a **Property Metric** of 100.
+> A property with [[Terminology Around Coordinates|X]] size 10 and [[Terminology Around Coordinates|Z]] size 10 would have a **Property Metric** of 100.
+
+The area of subdivisional lines counts twice when calculating the [[Property#Property Metric|Property Metric]].
+> [!example] 
+> For an abstractly shaped property composed of two rectangles of size 10x10 and 3x4, 
+> $$ (10 * 10) + (3 * 4) = 112 $$
+
+---
+## Property Volumetric
+**Property Volumetric** is always calculated as the total volume of a [[Property]]. This calculated value is called **Property Volumetric** or simply, Volumetric.
+> [!example]
+> A property with [[Terminology Around Coordinates|X]] size 10, [[Terminology Around Coordinates|Y]] size 3 and [[Terminology Around Coordinates|Z]] size 10 would have a **Property Volumetric** of 300.
 
 ---
 ## Property Size
 **Property Size** is a way to classify if a **Property** is "large" or "small". 
 #### Small Property
-A **Small Property** is a **Property** with a [[#Property Metric]] of *less than or equal to* 144.
+A **Small Property** is a **Property** with a [[#Property Metric]] of *less than or equal to* 400.
 
 #### Large Property
-A **Large Property** is a **Property** with a [[#Property Metric]] of *more than* 144.
+A **Large Property** is a **Property** with a [[#Property Metric]] of *more than* 400.
 
 ---
 ## Public Property
