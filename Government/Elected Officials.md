@@ -23,10 +23,10 @@ An **Elected Official** can officialize [[Fines]] that [[Citizen|Citizens]] (inc
 An **Elected Official** can incur (issue) [[Crime#Criminal Punishments|Criminal Punishments]] on [[Citizen|Citizens]] who have committed a [[Crime]].
 #### Allocate Small Properties *without* the approval of a Government Meeting
 An **Elected Official** can allocate [[Property#Small Property|Small Property]] for themselves and others without approval of a [[Governmental Meetings|Governmental Meeting]]. Allocated land must be allocated via purchase detailed in [[Purchasing Land]].
-#### Allocate Large Properties*with* the approval of a Governmental Meeting
+#### Allocate Large Properties *with* the approval of a Governmental Meeting
 An **Elected Official** can allocate [[Property#Large Property|Large Property]] for themselves and others with the approval of a [[Governmental Meetings|Governmental Meeting]]. Allocated land must be allocated via purchase detailed in [[Purchasing Land]].
 #### Allocate Subsurface Land Provisions
-An **Elected Official** can allocate [[Subsurface Land Provisions]] for themselves and others. They must determined a provision [[Terminology Around Coordinates|Y]] level before granting a provision.
+An **Elected Official** can allocate [[Subsurface Land Provisions]] for themselves and others. They must determine a provision [[Terminology Around Coordinates|Y]] level before granting a provision.
 #### Adjust the Circumstantial Tax Value
 An **Elected Official** can adjust the [[Taxes#Circumstantial Tax Value|Circumstantial Tax Value]] by 0.05 on each [[Taxes#Tax Period|Tax Period]]. Two or multiple **Elected Officials** can adjust in opposite directions and cancel each other out. The adjustment goes into effect the *next* [[Taxes#Tax Period|Tax Period]] and *not* this [[Taxes#Tax Period|Tax Period]].
 #### Postpone a Tax Period
