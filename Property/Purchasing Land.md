@@ -4,16 +4,17 @@ aliases:
 ---
 To purchase land, a **Citizen** must speak to an [[Elected Officials#Elected Official|Elected Official]] or in the case of the prospective purchaser being an [[Elected Officials#Elected Official|Elected Official]] they must determine if the [[Land]] is a [[Property#Large Property|Large Property]] and will hence require a [[Governmental Meetings|Governmental Meeting]].
 
-The price of land is decided by taking the [[Property#Property Metric|Property Metric]] and dividing it by 4, ceilinged to an integer.
+The price of land is decided by taking the [[Property#Property Metric|Property Metric]] and dividing it by 8, ceilinged to an integer.
 > [!math]
 > $$ \begin{align*}
 > & m = \text{property metric} \\
-> & n = \lceil \frac{m}{4} \rceil 
+> & n = \lceil \frac{m}{8} \rceil 
 > \end{align*} $$
 
 The [[Elected Officials#Elected Official|Elected Official]] will either allocate the land or schedule a [[Governmental Meetings|Governmental Meeting]] to determine if land can be allocated. If land allocation was successful the [[Elected Officials#Elected Official|Elected Official]] must receive payment for the new [[Property]] and submit it into the [[Treasure]] (via the [[Treasure#Treasurer|Treasurer]]).
 
 All [[Signage#Signage Requirements|Signage Requirements]] must be met for the [[Property]] to be valid.
+All [[Property]] requirements must be met for the [[Property]] to be purchased.
 
 ---
 ## Land Anti-Mutilation Incentive
@@ -24,8 +25,17 @@ For every block of variance (each [[Terminology Around Coordinates|Y]] level) re
 > - Taking 5 blocks off the top of a mountain would cost (15 * 5) 75 Diamonds.
 > - Taking [[Land]] which varies in height by 3 blocks and making it flat would cost (15 * 3) 45 Diamonds.
 
-The **Land Anti-Mutilation Incentive** must also be consulted and used to charge [[Citizen|Citizens]] when changes to land flatness are prospected after property purchase.
+The **Land Anti-Mutilation Incentive** must also be consulted and used to charge [[Citizen|Citizens]] when changes to land flatness are prospected after [[Property]] purchase.
 
+---
+## Anti-Inflation Incentive
+The **Anti-Inflation Incentive** works to stop the value of Diamonds to inflate and hence make currency less valuable.
+
+If a [[Citizen]] wishes to construct a staircase reaching into the ground (cumulatively 20 blocks below the surface) on their land they must pay 30 Diamonds. 
+
+The **Anti-Inflation Incentive** must also be consulted and used to charge [[Citizen|Citizens]] when changes to underground staircase [[Property]] status are prospected after [[Property]] purchase.
+
+---
 ## Underwater Land Incentive
 The **Underwater Land Incentive** works to make it easier to build underwater.
 #### Underwater Construction
