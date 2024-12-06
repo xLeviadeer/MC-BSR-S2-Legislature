@@ -44,7 +44,7 @@ If a **Default Tax Amount** comes out with more than 2 decimals, it should be ro
 > & \text{Let } d = \lfloor \frac{m}{27} \rfloor * 3 \text{ be the final, default tax amount a Citizen owes.} \\
 > \end{align*} $$
 
-If a [[Citizen]] is not a [[Property Owner]] and also doesn't own at least 27 stacks of items in storage containers (not including chests, shulker boxes and ender chests) they owe a flat value of 5 Diamonds to the [[Government]].
+If a [[Citizen]] is not a [[Property Owner]] and also doesn't own at least 27 stacks of items in storage containers (not including chests, shulker boxes and ender chests) they owe a flat value of 5 Diamonds to the [[Government]]. This counts as a **Default Tax Amount**.
 
  a stack is defined as a Minecraft item slot which contains something.
 #### For Citizens who are Property Owners
@@ -77,7 +77,7 @@ Generally speaking:
 
 ---
 ## Circumstantial Tax Value
-The **Circumstantial Tax Value** is a value which modifies the [[#Default Tax Amount]] after all calculations. The **Circumstantial Tax Value** starts at 0.00 and can be [[Elected Officials#Adjust the Circumstantial Tax Value|adjusted by elected officials]] in increments of 0.05 per [[Elected Officials#Elected Official|Elected Official]]. The **Circumstantial Tax Value** is calculated via the equation below.
+The **Circumstantial Tax Value** is a value which modifies the [[#Default Tax Amount]] after all calculations. The **Circumstantial Tax Value** starts at 0.00 and can be [[Elected Officials#Adjust the Circumstantial Tax Value|adjusted by elected officials]] in increments of 0.05 per [[Elected Officials#Elected Official|Elected Official]]. The **Circumstantial Tax Value** is calculated via the equation below. The **Circumstantial Tax Value** cannot go below 0.25 and cannot exceed 3. Attempts to do so will result in no change.
 > [!math]
 > $$ \begin{align*} 
 > & \text{Let } c \text{ be the Circumstantial Tax Value} \\
