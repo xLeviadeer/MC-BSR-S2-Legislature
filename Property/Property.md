@@ -58,6 +58,11 @@ All [[Land#Hard Land|Hard Land]] which is not **Private Property** or **Shared P
 - The [[Property Owner]] has disobeyed [[Jurisdiction]], in which case [[Elected Officials]] or [[Citizen|Citizens]] provisioned by [[Elected Officials]] can enter the **Private Property**.
 
 ---
+## Publicized (Portions of) Private Property
+A **Publicized (Portion of) Private Property** is a (portion of a) [[#Private Property]] which is open to the public as if it were [[#Public Property]]. This (portion) of **Property** follows all [[#Public Property]] rules and [[Jurisdiction#Public Property Jurisdiction|jurisdiction]].
+More information about the scope of [[Jurisdiction#Publicized Private Property|Publicized Private Property]] can be found here [[Jurisdiction#Publicized Private Property]].
+
+---
 ## Unowned Property
 **Unowned Property** is a type of [[Land#Soft Land|Soft Land]] which is owned by the [[Government]] which all [[Citizen|Citizens]] are allowed to enter.
 All [[Land#Soft Land|Soft Land]] which is not [[#Owned Property]] is *not* **Unowned Property**. **Unowned Property** is typically property that has specific rules about how it should be used, imposed by the [[Government]].
