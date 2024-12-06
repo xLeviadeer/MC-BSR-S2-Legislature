@@ -46,6 +46,7 @@ Text:
 - near hazardous
 - material
 #### (Shared) Private Property Killing Signage
+**Important**: If **(Shared) Private Property Killing Signage** is present, then [[#(Shared) Private Property Damaging Signage]] is not required.
 Dye Color: Blue
 Glowing: Yes
 Information Type: Property
