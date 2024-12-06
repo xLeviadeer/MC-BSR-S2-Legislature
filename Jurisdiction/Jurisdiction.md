@@ -16,7 +16,8 @@ Breaking **Land Jurisdiction** is considered a [[Crime]] and makes breaker subje
 #### Sleeping Regularly
 [[Citizen|Citizens]] must sleep when requested by a majority of online [[Citizen|Citizens]]. If a [[Citizen]] is unable to sleep they should log from the game and rejoin.
 #### Accidental Land Destruction
-If a [[Citizen]] accidentally destroys [[Land]] (an example would be from a creeper) then they must repair the [[Land]] to exactly or almost exactly what it formerly was.
+If a [[Citizen]] accidentally destroys [[Land]] (an example would be from a creeper) then they must repair the [[Land]] to exactly or almost exactly what it formerly was within 2 Minecraft days. 
+If they are discovered to have not done this (repaired the [[Land]]) then they will be issued a [[Fines|Fine]] as a [[Crime]] where the [[Fines|Fine]]'s value can be reduced by 50% if the [[Land]] is repaired within the [[Fines|Fine]] deadline. The [[Fines|Fine]] deadline must not be less than 2 Minecraft days.
 
 ---
 ## Soft Jurisdiction
@@ -35,6 +36,7 @@ If a [[Citizen]] accidentally destroys [[Land]] (an example would be from a cree
 - From another player after they die
 - After they are thrown on the ground (if you do not have permission to do so)
 - From a [[Property#Private Property|Private Property]], [[Property#Shared Private Property|Shared Private Property]] or [[Citizen#Right to be Issued a Primary Residence|public primary residence]]'s containers (if you do not have permission to do so)
+- From a [[Mailboxes|Mailbox]] if not in agreement with [[Mailboxes#Stealing|mailbox stealing regulations]].
 #### Containment of Hazardous Materials
 Hazardous materials (lava, lava item, fire, TNT, TNT item) must have the [[Signage#Hazardous Materials Signage|required signage]].
 #### Non-Fundability
@@ -75,6 +77,10 @@ All [[Land#Hard Land|Hard Land]] which is not **Private Property** or **Shared P
 The ability to **Kill**[^1] is to be determined by the [[Property Owner]]. The [[Property#Shared Private Property|Shared Private Property]] must follow the proper [[Signage#Signage Requirements|Signage Requirements]] or else **Killing**[^1] is assumed to not be allowed. This rule is only invalid if a [[Property Owner]] is [[Property Owner#Right to Kill while Trespassing Personal Private Property|killing a citizen for trespassing]].
 #### Damaging
 The ability to **Damage**[^2] is to be determined by the [[Property Owner]]. The [[Property#Shared Private Property|Shared Private Property]] must follow the proper [[Signage#Signage Requirements|Signage Requirements]] or else **Damaging**[^2] is assumed to not be allowed. This rule is only invalid if a [[Property Owner]] is [[Property Owner#Right to Kill while Trespassing Personal Private Property|killing a citizen for trespassing]].
+#### Publicized Private Property
+**Publicized Private Property** may be abstracted shaped as long as it is obvious where it begins and ends. This can be done via:
+- Following the rules of [[Signage#Private and Shared Private Property Valid Signage Locations|Private and Shared Private Property Valid Signage Locations]] for the publicized portion and including [[Signage#Publicized Private Property Signage|Publicized Private Property Signage]].
+- Providing no signage regarding [[Property#Private Property|Private Property]] meaning that the portion of [[Property]] must be public.
 
 ---
 ## Private Property Jurisdiction
