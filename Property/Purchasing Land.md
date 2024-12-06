@@ -20,7 +20,19 @@ All [[Property]] requirements must be met for the [[Property]] to be purchased.
 ## Land Anti-Mutilation Incentive
 The **Land Anti-Mutilation Incentive** works to stop land from being mutilated and instead to incentivize [[Citizen|Citizens]] to build "with the land". If prospectively purchased [[Land]] will be flattened before it is constructed on, depending on the severity of flattening, the price of land is increased. 
 
-For every block of variance (each [[Terminology Around Coordinates|Y]] level) removed for construction before becoming level increases (adds to) the [[Land]] price by 15 Diamonds.
+*Variance* is defined as the difference in height of [[Landarea#Surface Blocks|Surface Blocks]].
+*Total variance* is defined as the total amount of *variance* a [[Property]] has.
+*Removal of variance* can occur by making actions (destroying, placing blocks) which result in *total variance* becoming smaller. Additionally, actions which almost change the *total variance*, but not quite (80% of *variance* for a particular X, Z slice of blocks removed) count as as *removing variance*.
+When the *total variance* becomes 0, *variance* can no longer be removed.
+
+For every block of *variance* (each [[Terminology Around Coordinates|Y]] level) *removed* for construction before becoming level increases (adds to) the [[Land]] price by 5 Diamonds.
+> [!example]
+> - Taking 5 blocks off the top of a mountain would cost (5 * 5) 25 Diamonds.
+> - Taking [[Land]] which varies in height by 3 blocks and making it flat would cost (5 * 3) 15 Diamonds.
+
+The **Land Anti-Mutilation Incentive** must also be consulted and used to charge [[Citizen|Citizens]] when changes to *variance* are prospected after [[Property]] purchase.
+
+---
 > [!example]
 > - Taking 5 blocks off the top of a mountain would cost (15 * 5) 75 Diamonds.
 > - Taking [[Land]] which varies in height by 3 blocks and making it flat would cost (15 * 3) 45 Diamonds.

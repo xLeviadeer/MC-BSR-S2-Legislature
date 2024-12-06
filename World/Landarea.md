@@ -7,3 +7,7 @@
 --- 
 ## Light Landarea
 **Light Landarea** is blocks with access to sunlight at any light level, including light level 1 from sunlight.
+
+---
+## Surface Blocks
+**Surface Blocks** are defined as blocks which were originally (when purchasing a [[Property]] or before the [[Government]] claimed the [[Land]]) visible when looking down on the property from above (only considering X and Z). 
