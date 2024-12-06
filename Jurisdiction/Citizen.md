@@ -32,12 +32,23 @@ It is considered a [[Crime]] if a **Citizen** breaks a **Citizen Rule**.
 #### Right to be Issued a Primary Residence
 A *primary residence* is the primary location that a **Citizen** resides; a **Citizen**'s home base; the location where a specific **Citizen** most often sleeps.
 **Citizens** have the right to request a public primary residence if they do not have any existing primary residence. This may occur if a **Citizen** is not a [[Property Owner]] or a member of a [[Property#Shared Private Property|Shared Private Property]].
-Upon request, the [[Government]] must supply a [[Property#Public Property|Public Property]] residence which offers, at the minimum, shelter which has room to be entered, light in order to stop mobs from spawning, a bed which can be slept in and a [[Property Owner#Mailbox Construction and Placement|mailbox]].
-#### Right to Participate In and Create Loans
-Two **Citizens** have the right to create loans with any monetary circumstances they agree on via a book detailing the agreement with the name of the author typed into the book and then signed by the person agreeing the terms of the loan.
 
-The signed loan must be given to an [[Elected Officials#Elected Official|Elected Official]] to ensure that the [[Citizen]] being loaned is held accountable. If a loan's requirements aren't met it is considered a [[Crime]].
+Upon request, the [[Government]] must supply a [[Property#Public Property|Public Property]] residence which offers, at the minimum, shelter which has room to be entered, light in order to stop mobs from spawning, a bed which can be slept in and a [[Property Owner#Mailbox Construction and Placement|mailbox]].
+The [[Government]] must supply this [[Property]] within 2 Minecraft days of the request being issued. 
+#### Right to be Issued a Private Assignments Board
+A *private assignments board* is a location which is used to display a list of [[Assignments#Private Assignments|Private Assignments]] for a particular [[Citizen]]. 
+
+By request, the [[Government]] must provide a [[Property#Private Property|Private Property]] of size [[Terminology Around Coordinates|X]]/[[Terminology Around Coordinates|Z]]7 by [[Terminology Around Coordinates|X]]/[[Terminology Around Coordinates|Z]]5 by [[Terminology Around Coordinates|Y]]3 in or within a 50 block square radius of the "Penton Public Nether Portal" which is untaxed and unpurchased owned by the requestor.
+The [[Government]] has the right to revoke this [[Property#Private Property|Private Property]] if the [[Property Owner]] doesn't consistently meet the following requirements:
+- The only thing contained in this [[Property]] is a board for listing [[Assignments#Private Assignments|Private Assignments]].
+- [[Assignments#Tasks|Tasks]] are listed using signs or lecterns.
+- [[Assignments#Projects|Projects]] are listed using lecterns.
+- The [[Property]] must entirely be a [[Property#Publicized (Portions of) Private Property|Publicized Private Property]].
+#### Right to Participate In and Create Loans
+Two **Citizens** have the right to create loans, a type of [[Contracts|Contract]], with any monetary circumstances they agree on.
 #### Right to Vote Early and Remotely
 1. **Citizens** have the right to vote early, within the last 2 tax periods before an upcoming [[Election]]. 
 2. **Citizens** have the right to vote without joining the game over a remote platform.
 This right is to ensure that more opinions are heard even when availability of **Citizens** may be low.
+#### Right to Check Mailbox
+A **Citizen** should [[Mailboxes#Keeping Informed About Mailbox Contents|check their mailbox regularly]] in order to ensure they aren't missing deadlines.
