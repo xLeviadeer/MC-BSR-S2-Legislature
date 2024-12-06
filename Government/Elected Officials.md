@@ -28,7 +28,7 @@ An **Elected Official** can allocate [[Property#Large Property|Large Property]] 
 #### Allocate Subsurface Land Provisions
 An **Elected Official** can allocate [[Subsurface Land Provisions]] for themselves and others. They must determine a provision [[Terminology Around Coordinates|Y]] level before granting a provision.
 #### Adjust the Circumstantial Tax Value
-An **Elected Official** can adjust the [[Taxes#Circumstantial Tax Value|Circumstantial Tax Value]] by 0.05 on each [[Taxes#Tax Period|Tax Period]]. Two or multiple **Elected Officials** can adjust in opposite directions and cancel each other out. The adjustment goes into effect the *next* [[Taxes#Tax Period|Tax Period]] and *not* this [[Taxes#Tax Period|Tax Period]].
+An **Elected Official** who is currently present in [[World|MC:BSR-S2]] can adjust the [[Taxes#Circumstantial Tax Value|Circumstantial Tax Value]] by 0.05 on each [[Taxes#Tax Period|Tax Period]] before [[Taxes|tax collection]]. Two or multiple **Elected Officials** can adjust in opposite directions and cancel each other out. The adjustment goes into effect the *this* [[Taxes#Tax Period|Tax Period]].
 #### Postpone a Tax Period
 An **Elected Official** can postpone the [[Taxes#Tax Period|Tax Period]] if no **Elected Officials** are present to collect [[Taxes]]. If a [[Taxes#Tax Period|Tax Period]] is postponed, the [[Taxes]] for the current period are owed during the next period.
 #### Issue and Sign Tax Books
