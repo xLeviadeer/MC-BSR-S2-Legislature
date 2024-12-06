@@ -21,6 +21,14 @@ To calculate **Taxes** a [[Citizen]] should:
 2. Apply [[#Implicit Tax Incentives]] to the [[Property#Property Metric|Property Metrics]]. 
 3. Calculate the [[#Default Tax Amount]].
 4. Apply the [[#Circumstantial Tax Value]] to their [[#Default Tax Amount]].
+5. If there are any [[Crime#Tax Increase|Tax Increases]] they should be applied after everything else.
+
+What this means is that:
+- Taxes mainly get larger as the size of a [[Citizen]]'s [[Property#Private Property|Private Property]], [[Property#Shared Private Property|Shared Private Property]] or [[Property#Owned Property|Owned Property]] gets larger *without considering height*.
+- [[Elected Officials]] can *partially* control how much money you pay in [[Taxes]].
+- Destroying your ([[Property Owner]]'s) [[Property]] can result in increases in taxes and pricing. *Even though you own the property*; you are buying a sub-lease from the [[Government]].
+- Buying [[Property]] in certain areas is less expensive or more expensive.
+- [[Citizen|Citizens]] with no [[Property]] owe less taxes than those with [[Property#Large Property|Large Property]] but owe more than those with [[Property#Small Property|Small Property]]. 
 
 ---
 ## Default Tax Amount
@@ -28,19 +36,23 @@ The **Default Tax Amount** is the amount of **Taxes** that is paid by default.
 
 If a **Default Tax Amount** comes out with more than 2 decimals, it should be rounded to 2 decimal places.
 #### For Citizens who are *not* Property Owners
-[[Citizen|Citizens]] who are not [[Property Owner|Property Owners]] owe the [[Government]] a tax of 3 Diamonds for every 27 stacks of items they own in storage containers where a stack is defined as a Minecraft item slot which contains something.
+[[Citizen|Citizens]] who are not [[Property Owner|Property Owners]] owe the [[Government]] a tax of 3 Diamonds for every 27 stacks of items they own in storage containers (not including chests, shulker boxes and ender chests).
 > [!math]
 > $$ \begin{align*}
 >  & \text{Let } m \text{ be the amount of item stacks a player stores in containers at their Primary Residence.} \\
 > \\
 > & \text{Let } d = \lfloor \frac{m}{27} \rfloor * 3 \text{ be the final, default tax amount a Citizen owes.} \\
 > \end{align*} $$
+
+If a [[Citizen]] is not a [[Property Owner]] and also doesn't own at least 27 stacks of items in storage containers (not including chests, shulker boxes and ender chests) they owe a flat value of 5 Diamonds to the [[Government]].
+
+ a stack is defined as a Minecraft item slot which contains something.
 #### For Citizens who are Property Owners
 The equation below describes how to tax [[Citizen|Citizens]] with different types of [[Property|Properties]]. 
 Generally speaking:
 - [[Property#Private Property|Private Property]] [[Property Owner|Owners]] owe the default tax value
 - [[Property#Shared Private Property|Shared Private Property]] [[Property Owner|Owners]] owe extra tax based on the number of members who have resided (slept, stored, or used as their [[Citizen#Right to be Issued a Primary Residence|primary residence]]) in their [[Property#Shared Private Property|Shared Private Property]].
-- [[Property#Owned Property|Owned Property]] [[Property Owner|Owners]] owe double the taxes of a [[Property#Private Property|Private Property]] [[Property Owner|Owner]]. 
+- [[Property#Owned Property|Owned Property]] [[Property Owner|Owners]] owe 130% the taxes of a [[Property#Private Property|Private Property]] [[Property Owner|Owner]]. 
 > [!math]
 > $$
 > \begin{align*}
@@ -54,7 +66,7 @@ Generally speaking:
 > & \text{Let }f(p, r) = \begin{cases}
 > 	\frac{p}{200}, & \text{if Property is a Private Property} \\
 > 	\frac{p}{200} * (1 + \frac{r}{10}), & \text{if Property is a Shared Private Property} \\
-> 	\frac{p}{100}, & \text{if Propetty is an Owned Property} \\
+> 	\frac{p}{100}, & \text{if Property is an Owned Property} \\
 > \end{cases} \\
 > & \text{describe the operation to be performed on a Citizen's Property} \\
 > & \text{based on what kind of Property the particular property the Citizen owns is.} \\
@@ -98,21 +110,22 @@ The **Below the Ice Incentive** aims to incentivize [[Citizen|Citizens]] to buil
 [[Property]] which does not have ice above, below or inside of it is not considered in this incentive. 
 ###### For Property Owners Under the Ice
 [[Property Owner|Property Owners]] who own [[Property]] *under the ice* get a 30% reduction in **Taxes**. 
-*Under the ice* is defined as [[Property]] which is underneath the ice and leaves an at least 1 block gap between the ice and the property ([[Terminology Around Coordinates|Y]]61 inclusive).
+*Under the ice* is defined as [[Property]] which is underneath the ice in a glacier biome, not underground and leaves an at least 1 block gap between the ice and the property ([[Terminology Around Coordinates|Y]]61 inclusive).
 [[Property|Properties]] with larger (95% or more [[Property#Property Volumetric|volumetric]]) portions *above the ice* are not considered *under the ice*.
 $$ u \cup \{-0.3\} $$
 ###### For Property Owners On or Above the Ice
 [[Property Owner|Property Owners]] who own [[Property]] *above the ice* get a 30% increase in **Taxes**.
-*Above the ice* is defined as [[Property]] which is above the ice ([[Terminology Around Coordinates|Y]]64 inclusive).
+*Above the ice* is defined as [[Property]] which is above the ice ([[Terminology Around Coordinates|Y]]64 inclusive) which at least 1 block of sits anywhere above the ice in a glacier biome.
 [[Property|Properties]] with larger (95% or more [[Property#Property Volumetric|volumetric]]) portions *under the ice* are not considered *above the ice*.
 $$ u \cup \{0.3\} $$
 ###### For Property Owners who Puncture the Ice
 [[Property Owner|Property Owners]] who own [[Property]] *puncturing the ice* get a 15% increase in **Taxes**.
-*Puncturing the ice* is defined as [[Property]] which is at least partially in the ice ([[Terminology Around Coordinates|Y]]62 - 63 inclusive).
-$$ u \cup \{0.15\} $$---
+*Puncturing the ice* is defined as [[Property]] which is at least partially in the ice ([[Terminology Around Coordinates|Y]]62 - 63 inclusive) inside of a glacier biome.
+$$ u \cup \{0.15\} $$
+---
 #### Private Property over Owned Property Incentive
 The **Private Property over Owned Property Incentive** aims to incentivize [[Citizen|Citizens]] to build within [[Land#Hard Land|Hard Land]]. 
 
-[[Property#Owned Property|Owned Property]] gets a 60% increase in **Taxes**. 
-$$ u \cup \{0.60\} $$
+[[Property#Owned Property|Owned Property]] gets a 30% increase in **Taxes**. 
+$$ u \cup \{0.30\} $$
 
