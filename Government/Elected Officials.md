@@ -35,3 +35,5 @@ An **Elected Official** can postpone the [[Taxes#Tax Period|Tax Period]] if no *
 An **Elected Official** must write and sign tax books correctly through the [[Taxes]] process and mail them to [[Citizen|Citizens]].
 #### Earn Governmental Employment Salary
 An **Elected Official** earns a salary for working as part of the [[Government]]. 15% floored, of all collected [[Taxes]] from each [[Taxes#Tax Period|Tax Period]] is split equally (rounded) between all [[Elected Officials]] aside from the [[Treasure#Treasurer|Treasurer]] who receives a double portion.
+#### Terminate Vehicles
+An **Elected Official** has the right to [[Jurisdiction#Vehicles as Property|terminate vehicles]] in [[Property#Public Property|Public Property]].

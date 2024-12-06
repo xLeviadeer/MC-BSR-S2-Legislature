@@ -18,6 +18,8 @@ Breaking **Land Jurisdiction** is considered a [[Crime]] and makes breaker subje
 #### Accidental Land Destruction
 If a [[Citizen]] accidentally destroys [[Land]] (an example would be from a creeper) then they must repair the [[Land]] to exactly or almost exactly what it formerly was within 2 Minecraft days. 
 If they are discovered to have not done this (repaired the [[Land]]) then they will be issued a [[Fines|Fine]] as a [[Crime]] where the [[Fines|Fine]]'s value can be reduced by 50% if the [[Land]] is repaired within the [[Fines|Fine]] deadline. The [[Fines|Fine]] deadline must not be less than 2 Minecraft days.
+#### Vehicles as Property
+Vehicles are considered [[Property#Public Property|Public Property]] when they are in [[Property#Public Property|Public Property]]. Vehicles (such as boats, camels, horses, mules, donkeys, minecarts). Vehicles can be terminated by [[Elected Officials]].
 
 ---
 ## Soft Jurisdiction
