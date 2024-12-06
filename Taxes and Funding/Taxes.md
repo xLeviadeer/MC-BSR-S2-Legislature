@@ -14,6 +14,8 @@ Taking Diamonds or signed tax books from a *Public Tax Mailbox* for personal use
 
 A *Public Tax Mailbox* is a [[Property Owner#Mailbox Construction and Placement|mailbox]] which follows all [[Property Owner#Mailbox Construction and Placement|Mailbox Construction and Placement]] rules but is located in [[Property#Public Property|Public Property]] and owned by the [[Government]] for use in collecting **Taxes**.
 
+**Taxes** aren't due on time (within the [[#Tax Period|tax period deadline]]) if the [[Citizen]] who pays the **Taxes** is [[Crime#Imprisonment|Imprisoned]]. Instead, the **Taxes** are due 15 days after they leave [[Crime#Imprisonment|prison]].
+
 ---
 ## Tax Calculation Process
 To calculate **Taxes** a [[Citizen]] should:

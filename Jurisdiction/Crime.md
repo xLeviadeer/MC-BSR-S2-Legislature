@@ -12,9 +12,10 @@ A **Temporary Ban** is when a criminal will be kicked from the server upon joini
 Each criminal who receives a **Temporary Ban** will be given a term of either Minecraft days or real days where they will be unable to join.
 #### Imprisonment
 **Imprisonment** is when a criminal is issued to make their temporary [[Citizen#Right to Be Issued a Primary Residence|primary residence]] a particular building used to hold criminals referred to as *prison*. When a criminal is held in prison, they become a *prisoner*. *Prison* may include several extenuating living circumstances which would not normally be legal, however *prisoners*:
-- Are issued a term of either Minecraft days or real days upon becoming a *prisoner* which explains how long they must reside in *prison*. Leaving *prison* early is considered a **Crime**.
+- Are issued a term of either Minecraft days or real days upon becoming a *prisoner* which explains how long they must reside in *prison*. Leaving *prison* early is considered a **Crime**. *prison* days are considered as days spent in the game.
 - Cannot be killed without reason. A reason to kill would be committing a **Crime**.
 - Must leave their items outside of the *prison* in [[Government]] holding until they are released. Not giving back all of a *prisoners* items at the end of their term or stealing from a *prisoner's* items is considered a **Crime**.
+- Are not subject to paying [[Taxes]] on time while in prison, however their [[Taxes]] will be due 15 days after leaving *prison*.
 #### Business Restriction 
 A **Business Restriction** is when a [[Property Owner]], **Criminal** who sells items through one of their [[Property|Properties]] is prohibited from soliciting any sales (including personal trade) for a term.
 Each **Criminal** who receives a **Business Restriction** will be given a term of either Minecraft days or real days where they are unable to solicit sales.
