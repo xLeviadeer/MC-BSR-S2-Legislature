@@ -8,7 +8,7 @@ The taxpayer, [[Citizen]], must following the proper [[#Taxpaying Process]].
 
 ---
 ## Taxpaying Process
-A [[Citizen]] will receive a signed book which explains how much they owe in taxes in their [[Property Owner#Mailbox Construction and Placement|mailbox]]. They must deliver the signed tax book and the required amount of Diamonds to a *Public Tax Mailbox* within the [[#Tax Period|tax period deadline]]. Tax books should be discarded via destruction (cactus, lava, fire) when they are completed or stored in a vault.
+A [[Citizen]] will receive a signed book which explains how much they owe in **Taxes** in their [[Property Owner#Mailbox Construction and Placement|mailbox]]. They must deliver the signed tax book and the required amount of Diamonds to a *Public Tax Mailbox* within the [[#Tax Period|tax period deadline]]. Tax books should be discarded via destruction (cactus, lava, fire) when they are completed or stored in a vault.
 
 Taking Diamonds or signed tax books from a *Public Tax Mailbox* for personal use (not moving the tax money to the [[Treasure]]) is considered a [[Crime]].
 
@@ -79,7 +79,7 @@ Generally speaking:
 
 ---
 ## Circumstantial Tax Value
-The **Circumstantial Tax Value** is a value which modifies the [[#Default Tax Amount]] after all calculations. The **Circumstantial Tax Value** starts at 0.00 and can be [[Elected Officials#Adjust the Circumstantial Tax Value|adjusted by elected officials]] in increments of 0.05 per [[Elected Officials#Elected Official|Elected Official]]. The **Circumstantial Tax Value** is calculated via the equation below. The **Circumstantial Tax Value** cannot go below 0.25 and cannot exceed 3. Attempts to do so will result in no change.
+The **Circumstantial Tax Value** is a value which modifies the [[#Default Tax Amount]] after all calculations. The **Circumstantial Tax Value** starts at 0.00 and can be [[Elected Officials#Adjust the Circumstantial Tax Value|adjusted by elected officials]] in increments of 0.05 per [[Elected Officials#Elected Official|Elected Official]]. The **Circumstantial Tax Value** is calculated via the equation below. The **Circumstantial Tax Value** cannot go below -0.75 and cannot exceed 3. Attempts to do so will result in no change.
 > [!math]
 > $$ \begin{align*} 
 > & \text{Let } c \text{ be the Circumstantial Tax Value} \\

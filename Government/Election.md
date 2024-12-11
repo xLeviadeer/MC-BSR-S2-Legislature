@@ -11,9 +11,9 @@ A maximum of 3 elected officials is possible by default. The current [[Elected O
 ---
 ## Voting Restrictions
 #### Self Voting
-[[Elected Officials]] cannot vote for themselves in an [[Election]]. It is considered a [[Crime]] to do so.
+[[Elected Officials]] cannot vote for themselves in a position higher than the [[#Number of Elected Officials]] in an [[Election]]. It is considered a [[Crime]] to do so.
 #### Lobbying
-No [[Citizen]] is allowed to lobby votes during the election. Voters must be able to vote for their preference without restrictions.
+No [[Citizen]] is allowed to lobby votes during the election. Voters must be able to vote for their preference without restrictions or bribery.
 
 ---
 ## How to Vote
@@ -36,7 +36,8 @@ The *unanimity analysis* will:
 	- Ranking has a weight of 0.75
 	- Unanimity has a weight of 0.25
 
-The highest finally ranked [[Citizen|Citizens]] of amount equal to the number of [[#Elected Officials]] will be successfully elected into the [[Government]] for this term.
+The highest finally ranked [[Citizen|Citizens]] of amount equal to the number of [[#Elected Officials]] will be successfully elected into the [[Government]] for this term. 
+In the case of a tie, the tying [[Citizen|Citizens]] will be evaluated with strictly ranking. In the case that this is still a tie, the member(s) who voted before the other(s) will be elected.
 
 ---
 ## After the Election

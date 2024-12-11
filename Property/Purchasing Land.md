@@ -42,7 +42,7 @@ Walls can qualify as *supports*. *Supports* can be diagonal.
 
 If a [[Citizen]] anticipates to construct a floating structure (any kind of build which has air between [[Landarea#Surface Blocks|Surface Blocks]] and the structure's bottom) they must either add *supports* or be charged 5 Diamonds, ceilinged, for every 30 blocks of blocked sunlight. This means that blocks like glass don't count against the **Grounded Structures Incentive**.
 > [!example]
-> - Building a floating structure of size [[[Terminology Around Coordinates|X]]5, [[Terminology Around Coordinates|Z]]5 with no supports would cost 5 Diamonds.
+> - Building a floating structure of size [[Terminology Around Coordinates|X]]5, [[Terminology Around Coordinates|Z]]5 with no supports would cost 5 Diamonds.
 > - Building a floating structure of size [[Terminology Around Coordinates|X]]10, [[Terminology Around Coordinates|Z]]10 with no supports would cost 10 Diamonds.
 
 The **Grounded Structures Incentive** must also be consulted and used to charge [[Citizen|Citizens]] when changes to floating structures inside of [[Property]] are prospected after [[Property]] purchase.
