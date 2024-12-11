@@ -11,6 +11,8 @@
 > 	- Gather chests
 > 	- Gather hoppers
 > 	- Build the farm
+
+**Projects** may be funded via a [[Millages|Millage]].
 ## Tasks
 **Tasks** are singular, specific requirements for one thing which require no other **Tasks** to complete.
 > [!example]

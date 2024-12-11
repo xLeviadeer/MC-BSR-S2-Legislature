@@ -37,3 +37,5 @@ An **Elected Official** must write and sign tax books correctly through the [[Ta
 An **Elected Official** earns a salary for working as part of the [[Government]]. 15% floored, of all collected [[Taxes]] from each [[Taxes#Tax Period|Tax Period]] is split equally (rounded) between all [[Elected Officials]] aside from the [[Treasure#Treasurer|Treasurer]] who receives a double portion.
 #### Terminate Vehicles
 An **Elected Official** has the right to [[Jurisdiction#Vehicles as Property|terminate vehicles]] in [[Property#Public Property|Public Property]].
+#### Create Millages *with* the Approval of a Government Meeting
+An **Elected Official** can create a [[Millages|Millage]] with the approval of a approval of a [[Governmental Meetings|Governmental Meeting]].
