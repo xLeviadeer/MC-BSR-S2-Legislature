@@ -46,9 +46,9 @@ If a **Default Tax Amount** comes out with more than 2 decimals, it should be ro
 > & \text{Let } d = \lfloor \frac{m}{27} \rfloor * 3 \text{ be the final, default tax amount a Citizen owes.} \\
 > \end{align*} $$
 
-If a [[Citizen]] is not a [[Property Owner]] and also doesn't own at least 27 stacks of items in storage containers (not including chests, shulker boxes and ender chests) they owe a flat value of 5 Diamonds to the [[Government]]. This counts as a **Default Tax Amount**.
+If a [[Citizen]] is not a [[Property Owner]] and also doesn't own at least 27 stacks of items in storage containers (not including shulker boxes and ender chests) they owe a flat value of 5 Diamonds to the [[Government]]. This counts as a **Default Tax Amount**.
 
- a stack is defined as a Minecraft item slot which contains something.
+A stack is defined as a Minecraft item slot which contains something.
 #### For Citizens who are Property Owners
 The equation below describes how to tax [[Citizen|Citizens]] with different types of [[Property|Properties]]. 
 Generally speaking:
