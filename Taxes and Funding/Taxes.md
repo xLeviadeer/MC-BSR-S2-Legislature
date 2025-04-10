@@ -17,13 +17,26 @@ A *Public Tax Mailbox* is a [[Property Owner#Mailbox Construction and Placement|
 **Taxes** aren't due on time (within the [[#Tax Period|tax period deadline]]) if the [[Citizen]] who pays the **Taxes** is [[Crime#Imprisonment|Imprisoned]]. Instead, the **Taxes** are due 15 days after they leave [[Crime#Imprisonment|prison]].
 
 ---
+## Tax Exemptions
+A tax exemption is when a [[Citizen]] doesn't have to pay their taxes, pays a reduced rate or may pay at a later date.
+#### New Citizen Exemption
+A [[Citizen]] is exempt from their first [[#Tax Period]] starting when they have established and/or have had access to their [[Citizen#Right to Be Issued a Primary Residence|primary residence]] at least once and ending at the end of the current [[#Tax Period]].
+#### Inactivity Exemption
+A [[Citizen]] is exempt from completing their [[Taxes]] if they have not joined the game for any amount of time for a consecutive 5 [[Taxes#Tax Period|Tax Periods]]. Late [[Crime#Fine|Fines]] and other [[Crime#Fine|Fines]] are still applicable.
+#### Consecutive Participant Exemption
+A [[Citizen]] may be given up to a 25% tax reduction where 5% reduction is applied for every consecutive [[#Tax Period]] the [[Citizen]] has paid their taxes without error subject to the decision of the [[Elected Officials#Elected Official|Elected Official]] as long as the decision is only made out of strictly [[Government|Governmental]] analysis and not a form of personal retaliation.
+#### Finances Exemption
+If a [[Citizen]] doesn't have enough currency to pay their **Taxes** they may be exempted from paying their **Taxes** once every [[#Tax Period]] by any [[Elected Officials#Elected Officials|Elected Officials]] not including themself. If they have already been exempted this period their **Taxes** may be postponed by 1 period without a late [[Crime#Fine|Fine]] once every [[#Tax Period]].
+
+---
 ## Tax Calculation Process
 To calculate **Taxes** a [[Citizen]] should:
 1. Compute the [[Property#Property Metric|Property Metric]] for all [[Property|Properties]] they own. 
 2. Apply [[#Implicit Tax Incentives]] to the [[Property#Property Metric|Property Metrics]]. 
 3. Calculate the [[#Default Tax Amount]].
 4. Apply the [[#Circumstantial Tax Value]] to their [[#Default Tax Amount]].
-5. If there are any [[Crime#Tax Increase|Tax Increases]] they should be applied after everything else.
+5. If there are any [[#Tax Exemptions]] they should be applied before [[Crime#Tax Increase|Tax Increases]].
+6. If there are any [[Crime#Tax Increase|Tax Increases]] they should be applied after everything else.
 
 What this means is that:
 - Taxes mainly get larger as the size of a [[Citizen]]'s [[Property#Private Property|Private Property]], [[Property#Shared Private Property|Shared Private Property]] or [[Property#Owned Property|Owned Property]] gets larger *without considering height*.
@@ -38,7 +51,7 @@ The **Default Tax Amount** is the amount of **Taxes** that is paid by default.
 
 If a **Default Tax Amount** comes out with more than 2 decimals, it should be rounded to 2 decimal places.
 #### For Citizens who are *not* Property Owners
-[[Citizen|Citizens]] who are not [[Property Owner|Property Owners]] owe the [[Government]] a tax of 3 Diamonds for every 27 stacks of items they own in storage containers (not including chests, shulker boxes and ender chests).
+[[Citizen|Citizens]] who are not [[Property Owner|Property Owners]] owe the [[Government]] a tax of 3 Diamonds for every 27 stacks of items they own in storage containers (not including shulker boxes and ender chests).
 > [!math]
 > $$ \begin{align*}
 >  & \text{Let } m \text{ be the amount of item stacks a player stores in containers at their Primary Residence.} \\

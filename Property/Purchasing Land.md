@@ -36,11 +36,12 @@ The **Land Anti-Mutilation Incentive** must also be consulted and used to charge
 ## Grounded Structures Incentive
 The **Grounded Structures Incentive** works to stop builds from floating in the air randomly.
 
+*Floating land* is land which floats at least 20 blocks from [[Landarea#Surface Blocks|Surface Blocks]].
 *Supports* are defined as at least 1 solid block (including blocks like fences, but not blocks like string, glass, or other transparent blocks (blocks that are more than 80% see-through)) thick pillars which extend from the floating land to [[Landarea#Surface Blocks|Surface Blocks]] without any airspace. 
 *Supports* must be placed within a 10 block square radius of each other and additionally at the corners (or most corner-like edges) of the the floating land. 
 Walls can qualify as *supports*. *Supports* can be diagonal. 
 
-If a [[Citizen]] anticipates to construct a floating structure (any kind of build which has air between [[Landarea#Surface Blocks|Surface Blocks]] and the structure's bottom) they must either add *supports* or be charged 5 Diamonds, ceilinged, for every 30 blocks of blocked sunlight. This means that blocks like glass don't count against the **Grounded Structures Incentive**.
+If a [[Citizen]] anticipates to construct a floating structure (any kind of build which has air between [[Landarea#Surface Blocks|Surface Blocks]] and the structure's bottom which are not fully or 95% fully enclosed with walls) they must either add *supports* or be charged 5 Diamonds, ceilinged, for every 30 blocks of blocked sunlight. This means that blocks like glass don't count against the **Grounded Structures Incentive**.
 > [!example]
 > - Building a floating structure of size [[Terminology Around Coordinates|X]]5, [[Terminology Around Coordinates|Z]]5 with no supports would cost 5 Diamonds.
 > - Building a floating structure of size [[Terminology Around Coordinates|X]]10, [[Terminology Around Coordinates|Z]]10 with no supports would cost 10 Diamonds.

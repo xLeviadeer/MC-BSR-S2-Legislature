@@ -12,3 +12,6 @@ Players in [[World|MC:BSR-S2]] are not allowed to engage with psychological warf
 
 #### Sleep in Reasonable Time
 Players in [[World|MC:BSR-S2]] should sleep within a reasonable amount of time of it being requested. If players are continuously unable to sleep they will be kicked from the game.
+
+#### Nether Roof Restrictions
+Players in [[World|MC:BSR-S2]] are not allowed to go onto the nether roof or below the nether floor. If players are found to have accessed either location they will be kicked or banned from the game.

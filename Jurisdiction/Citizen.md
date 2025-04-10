@@ -2,9 +2,8 @@
 aliases:
   - Citizens
 ---
-A **Citizen** is a player who enters [[Land#Jurisdictional Land|Jurisdictional Land]]. A **Citizen** is also any player who's [[#Right to be Issued a Primary Residence|Primary Residence]] is located in [[Land#Jurisdictional Land|Jurisdictional Land]]. 
-A player is still considered a **Citizen** for 1 real month (30 days) after they have no [[#Right to be Issued a Primary Residence|Primary Residence]] in [[Land#Jurisdictional Land|Jurisdictional Land]], are not currently in [[Land#Jurisdictional Land|Jurisdictional Land]] and haven't been for the last real month (30 days).
-Contrary to the common misconception that a **Citizen** must primarily reside in [[Property#Jurisdictional Property|Jurisdictional Property]], they only must enter it to become a **Citizen** for 1 real month (30 days).
+A **Citizen** is also any player who's [[#Right to be Issued a Primary Residence|Primary Residence]] is located in [[Land#Jurisdictional Land|Jurisdictional Land]]. 
+A player is still considered a **Citizen** until the end of the currently ongoing [[Taxes#Tax Period|Tax Period]] after they have no [[#Right to be Issued a Primary Residence|Primary Residence]] in [[Land#Jurisdictional Land|Jurisdictional Land]].
 
 ---
 ## Citizen Rules
@@ -18,6 +17,15 @@ It is considered a [[Crime]] if a **Citizen** breaks a **Citizen Rule**.
 **Citizens** cannot leave prison before they are provisioned to leave either by a [[Elected Officials#Elected Official|Elected Official]] or the ending of their imprisonment term.
 #### Consistent Assistance with Public Assignments
 **Citizens** are expected to occasionally assist (once every 2 [[Taxes#Tax Period|Tax Period]]) with [[Assignments#Public Assignments|Public Assignments]] if there are any [[Assignments#Public Assignments|Public Assignments]] which are able to be completed.
+#### Loaning, Distribution, Private Re-allocation or Sale of (Products of) Privately or Governmentally Allocated Services or Facilities
+**Citizens** may not loan, distribute, privately re-allocate or sell private or governmentally private services, facilities or products of services or facilities they have been delegated access to or allocated, where the following are defined as follows:
+- a private *service* is a line of work which can only be accessed by some **Citizens** under the regulation of another **Citizen**, generally resulting in a product, but not always
+- a *facility* is a system which allows enhancement or enrichment of a **Citizen** or their possessions
+- *loaning* is when a **Citizen** takes a payment for allowing an unapproved **Citizen** access to a service area or facility
+- *private re-allocation* is when a **Citizen** freely allows access of an unapproved **Citizen**--via negligence or accident--to a service area or facility
+- *sale* is when a **Citizen** takes a payment for the products attained via a service area or facility
+- *distribution* is when a **Citizen** freely releases products attained via a service area or facility into the hands of an unapproved **Citizen**--via negligence or accident.
+If a [[Property Owner]] negligently allows this to take place they are also included in responsibility for this [[Crime]].
 
 ---
 ## Citizen Rights

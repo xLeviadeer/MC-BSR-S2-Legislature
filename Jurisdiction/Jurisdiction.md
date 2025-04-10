@@ -83,6 +83,8 @@ The ability to **Damage**[^2] is to be determined by the [[Property Owner]]. The
 **Publicized Private Property** may be abstracted shaped as long as it is obvious where it begins and ends. This can be done via:
 - Following the rules of [[Signage#Private and Shared Private Property Valid Signage Locations|Private and Shared Private Property Valid Signage Locations]] for the publicized portion and including [[Signage#Publicized Private Property Signage|Publicized Private Property Signage]].
 - Providing no signage regarding [[Property#Private Property|Private Property]] meaning that the portion of [[Property]] must be public.
+#### Flying Above Property
+Flying above [[Property#Shared Private Property|Shared Private Property]] is allowed as long as it's not purposefully bothersome, being used to spy, or otherwise damage or frame [[Citizen|Citizens]] within or owning the [[Property]].
 
 ---
 ## Private Property Jurisdiction
@@ -94,6 +96,8 @@ The ability to **Damage**[^2] is to be determined by the [[Property Owner]]. The
 The ability to **Kill**[^1] is to be determined by the [[Property Owner]]. The [[Property#Private Property|Private Property]] must follow the proper [[Signage#Signage Requirements|Signage Requirements]] or else **Killing**[^1] is assumed to not be allowed. This rule is only invalid if a [[Property Owner]] is [[Property Owner#Right to Kill while Trespassing Personal Private Property|killing a citizen for trespassing]].
 #### Damaging
 The ability to **Damage**[^2] is to be determined by the [[Property Owner]]. The [[Property#Private Property|Private Property]] must follow the proper [[Signage#Signage Requirements|Signage Requirements]] or else **Damaging**[^2] is assumed to not be allowed. This rule is only invalid if a [[Property Owner]] is [[Property Owner#Right to Kill while Trespassing Personal Private Property|killing a citizen for trespassing]].
+#### Flying Above Property
+Flying above [[Property#Private Property|Private Property]] is allowed as long as it's not purposefully bothersome, being used to spy, or otherwise damage or frame [[Citizen|Citizens]] within or owning the [[Property]].
 
 ---
 ## Unowned Property Jurisdiction

@@ -1,0 +1,5 @@
+**Importing and Exporting** are the set of Fines that apply when goods, services or currency are traded, exchanged or donated between individuals who do not share the same [[Citizen]] status. An example of this would be a [[Citizen]] and an [[Alien]] making a trade. These interactions must follow [[Alien#Trade Jurisdiction|alien trade jurisdiction]].
+
+---
+## Rates
+When **Importing and Exporting** trades, exchanges or donations are completing a 50% fee, ceilinged is added on top of the original exchange value. An exact value for abstract trades, exchanges or donations is to be determined by the [[Alien#Exchange Monitoring|elected official reviewer of the interaction]]. All additional value of the trade, exchange or donation is to be attributed and sent for [[Government|Governmental possession]].
