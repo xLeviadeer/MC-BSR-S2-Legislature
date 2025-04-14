@@ -14,16 +14,16 @@ All **Elected Official**s must attend [[Governmental Meetings]] when available t
 #### Call for Governmental Meetings
 Any **Elected Official** can call for a [[Governmental Meetings|Governmental Meeting]] at any time, however, this doesn't mean the meeting will occur. 
 #### Add Public Tasks *without* a Government Meeting
-An **Elected Official** can add a [[Assignments#Public Assignments|Public Task]] without requiring the approval of a [[Governmental Meetings|Governmental Meeting]], however they cannot exploit this to complete a [[Assignments#Public Assignments|Public Project]] in small parts.
+An **Elected Official** can add a [[Assignments#Public Assignments|Public Task]] without requiring the approval of a [[Governmental Meetings|Governmental Meeting]], however they cannot exploit this to complete a [[Assignments#Public Assignments|Public Project]] in small parts. Additionally, [[Assignments#Public Assignments|Public Tasks]] cannot be assigned without giving at least 1 tax period of notice before the assigner of the [[Assignments#Public Assignments|Public Task]] can participate in completion of the [[Assignments#Tasks|Task]] or until another [[Citizen]] has already partaken in completion of the [[Assignments#Tasks|Task]].
 #### Add Public Projects *with* the approval of a Governmental Meeting
-An **Elected Official** can add a [[Assignments#Public Assignments|Public Project]] if they gain the approval of the **Elected Officials**.
-#### Collect Taxes and Fines
-An **Elected Official** can collect [[Taxes]] and [[Fines]] from [[Citizen|Citizens]] and themselves. If an **Elected Official** is found to be mishandling tax or fine collection they will be immediately removed from office and are subject to [[Crime#Criminal Punishments|Criminal Punishment]].
+An **Elected Official** can add a [[Assignments#Public Assignments|Public Project]] if they gain the approval of the **Elected Officials**. 
 #### Officialize Fines
 An **Elected Official** can officialize [[Fines]] that [[Citizen|Citizens]] (including themselves) submit. If a [[Fines|Fine]] is too little or too much for the [[Crime]] the **Elected Official** can negotiate the terms of the [[Fines|Fine]] in order to officialize it.
 #### Incur Criminal Punishments
-An **Elected Official** can incur (issue) [[Crime#Criminal Punishments|Criminal Punishments]] on [[Citizen|Citizens]] who have committed a [[Crime]].
-#### Allocate Small Properties *without* the approval of a Government Meeting
+An **Elected Official** can incur (issue) [[Crime#Criminal Punishments|Criminal Punishments]] on [[Citizen|Citizens]] who have committed a [[Crime]]. However, an **Elected Official** cannot incur a [[Crime#Temporary Ban|Temporary Ban]] without the approval of a [[Governmental Meetings|Governmental Meeting]]. 
+#### Release Prisoners *with* the approval of a Governmental Meeting
+An **Elected Official** can release a prisoner from [[Crime#Imprisonment|Prison]] early with the approval of a [[Governmental Meetings]].
+#### Allocate Small Properties *without* the approval of a Governmental Meeting
 An **Elected Official** can allocate [[Property#Small Property|Small Property]] for themselves and others without approval of a [[Governmental Meetings|Governmental Meeting]]. Allocated land must be allocated via purchase detailed in [[Purchasing Land]].
 #### Allocate Large Properties *with* the approval of a Governmental Meeting
 An **Elected Official** can allocate [[Property#Large Property|Large Property]] for themselves and others with the approval of a [[Governmental Meetings|Governmental Meeting]]. Allocated land must be allocated via purchase detailed in [[Purchasing Land]].
@@ -32,11 +32,7 @@ An **Elected Official** can allocate [[Subsurface Land Provisions]] for themselv
 #### Adjust the Circumstantial Tax Value
 An **Elected Official** who is currently present in [[World|MC:BSR-S2]] can adjust the [[Taxes#Circumstantial Tax Value|Circumstantial Tax Value]] by 0.05 on each [[Taxes#Tax Period|Tax Period]] before [[Taxes|tax collection]]. Two or multiple **Elected Officials** can adjust in opposite directions and cancel each other out. The adjustment goes into effect the *this* [[Taxes#Tax Period|Tax Period]].
 #### Postpone a Tax Period
-An **Elected Official** can postpone the [[Taxes#Tax Period|Tax Period]] if no **Elected Officials** are present to collect [[Taxes]]. If a [[Taxes#Tax Period|Tax Period]] is postponed, the [[Taxes]] for the current period are owed during the next period.
-#### Issue and Sign Tax Books
-An **Elected Official** must write and sign tax books correctly through the [[Taxes]] process and mail them to [[Citizen|Citizens]].
-#### Earn Governmental Employment Salary
-An **Elected Official** earns a salary for working as part of the [[Government]]. 15% floored, of all collected [[Taxes]] from each [[Taxes#Tax Period|Tax Period]] is split equally (rounded) between all [[Elected Officials]] aside from the [[Treasure#Treasurer|Treasurer]] who receives a double portion.
+An **Elected Official** can postpone the [[Taxes#Tax Period|Tax Period]] if no **Elected Officials** are present to collect [[Taxes]]. If a [[Taxes#Tax Period|Tax Period]] is postponed, the [[Taxes]] for the current period are owed during the next period. A [[Taxes#Tax Period|Tax Period]] cannot be postponed more than 2 times consecutively.
 #### Terminate Vehicles
 An **Elected Official** has the right to [[Jurisdiction#Vehicles as Property|terminate vehicles]] in [[Property#Public Property|Public Property]].
 #### Create Millages *with* the Approval of a Government Meeting
@@ -47,11 +43,15 @@ An **Elected Official** can organize a task force of either volunteers or conscr
 All members of a task force must be fairy and equally* compensated in currency for their participation. Volunteers may be compensated extra, however, no more than 150% the rate of conscripts. The amount of compensation is to be decided during the initial [[Governmental Meetings|Governmental Meeting]]. Task force members have the right to request food and other supplies to aid them with their assignment. If the [[Government]] fails to supply resources necessary for the task it is considered a [[Crime]] on all **Elected Officials**.
 
 Members of the task force must sign a contract for their participation to be valid and enforceable. Task forces should not be formed without a probable cause and task force participation enforcement becomes invalid if conscription is permanent; task forces including conscripts must have a definitive ending period where conscripts are released. Task forces including conscripts cannot last for more than 10 [[Taxes#Tax Period|Tax Periods]].
-#### Exchange Currency for Debt Value
-An **Elected Official** can exchange their physical currency for a debt currency equal to 120% the currency amount they exchanged in floored. Debt value can only be paid directly into [[Taxes]] and cannot be re-exchanged as physical currency.
 
 ---
 ## Rules for Elected Officials
+#### Due Notice
+An **Elected Official** can not inform [[Citizen|Citizens]] of critical matters such as fines, notices of regulation infringement or important notices without a minimum of 3 Minecraft days for a [[Citizen]] to respond. 
+#### Public Supplier Requirement
+An **Elected Official** must always structure asset requests for [[Assignments#Public Assignments|Public Assignments]] such that the resources can be supplied by all [[Citizen|Citizens]] without restriction; **Elected Officials** can not privatize the supplement of assets into the [[Treasure]]. 
+
+This, by extension, means that even if a particular supplier has shown great value and decency in behavior they cannot be accepted as the sole supplier for an asset. 
 #### Impeachment
 An **Elected Official** may be forcefully removed from office if at least one **Elected Official** and a [[Citizen]] agree to start an impeachment vote. An impeachment vote follows the following steps:
 1. The **Elected Official** calls for a [[Governmental Meetings|Governmental Meeting]]

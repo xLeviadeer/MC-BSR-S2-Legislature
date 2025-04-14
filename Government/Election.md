@@ -13,7 +13,7 @@ A maximum of 3 elected officials is possible by default. The current [[Elected O
 #### Self Voting
 [[Elected Officials]] cannot vote for themselves in a position higher than the [[#Number of Elected Officials]] in an [[Election]]. It is considered a [[Crime]] to do so.
 #### Lobbying
-No [[Citizen]] is allowed to lobby votes during the election. Voters must be able to vote for their preference without restrictions or bribery.
+No [[Citizen]] is allowed to lobby votes during the election. Voters must be able to vote for their preference without restrictions or bribery. This includes [[Citizen|Citizens]] promising currency rewards in any form, even indirectly as a result of voting for a particular candidate.
 
 ---
 ## How to Vote

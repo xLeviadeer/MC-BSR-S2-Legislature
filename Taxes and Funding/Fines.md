@@ -12,4 +12,3 @@ A **Fine** must adhere to the following rules:
 
 **Fines** must be officialized by a [[Elected Officials#Elected Official|Elected Official]] rather than all members agreeing to it's terms. During this process, the [[Elected Officials#Elected Official|Elected Official]] will sign the Book and Quill containing the **Fine**. The [[Elected Officials#Elected Official|Elected Official]] may negotiate to change the terms of the **Fine** in order for it to be successfully officialized. Officialized **Fines** should be delivered to the fined individual.
 The fined [[Citizen]] will need to pay their **Fine** which is detailed in [[Citizen#Requirement to Pay Taxes and Fines|Requirement to Pay Taxes and Fines]].
-

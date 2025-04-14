@@ -67,3 +67,5 @@ The **Property Owner** also cannot increase rent or punish members of their [[Pr
 #### Right to Ignore Personal Property Rules
 A **Property Owner** may ignore [[#Personal Property Rules]] that they have set on their own [[Property]] while inside of it and cannot be [[Fines|Fined]] or punished regarding this matter.
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]]*
+#### Right to Have Safe Property Bounds
+A **Property Owner** has the right to request lights to be placed around their property border so that they can safely exit their [[Property#Private Property|Private Property]] or [[Property#Shared Private Property|Shared Private Property]] without being killed.

@@ -26,7 +26,7 @@ A [[Citizen]] is exempt from completing their [[Taxes]] if they have not joined 
 #### Consecutive Participant Exemption
 A [[Citizen]] may be given up to a 25% tax reduction where 5% reduction is applied for every consecutive [[#Tax Period]] the [[Citizen]] has paid their taxes without error subject to the decision of the [[Elected Officials#Elected Official|Elected Official]] as long as the decision is only made out of strictly [[Government|Governmental]] analysis and not a form of personal retaliation.
 #### Finances Exemption
-If a [[Citizen]] doesn't have enough currency to pay their **Taxes** they may be exempted from paying their **Taxes** once every [[#Tax Period]] by any [[Elected Officials#Elected Officials|Elected Officials]] not including themself. If they have already been exempted this period their **Taxes** may be postponed by 1 period without a late [[Crime#Fine|Fine]] once every [[#Tax Period]].
+If a [[Citizen]] doesn't have enough currency to pay their **Taxes** they may be exempted from paying their **Taxes** once every 10 [[#Tax Period|Tax Periods]] by any [[Elected Officials#Elected Officials|Elected Officials]] not including themself. If they have already been exempted this period their **Taxes** may be postponed by 1 period without a late [[Crime#Fine|Fine]] once every 10 [[#Tax Period|Tax Periods]].
 
 ---
 ## Tax Calculation Process

@@ -15,6 +15,8 @@ Additionally, an **Alien** can be denied entry by an [[Elected Officials#Elected
 **Aliens** cannot leave prison before they are provisioned to leave either by a [[Elected Officials#Elected Official|Elected Official]] or the ending of their imprisonment term.
 #### Approval of Reintegration
 **Aliens** must be approved by a [[Governmental Meetings|Governmental Meeting]] before they can re-establish their [[Citizen#Right to be Issued a Primary Residence|primary residence]] within [[Land#Jurisdictional Land|Jurisdictional Land]] and hence become a [[Citizen]] (once more).
+#### Fee for Entry of Hard Land
+**Aliens** must pay a 10 currency flat fee upon entering [[Land#Hard Land|Hard Land]] in the nearest or otherwise easily accessible [[Taxes#Taxpaying Process|Public Tax Mailbox]] with verbal explanation for their entry and confirmation of their compliance with paying the fee within the shortest possible time of entering [[Land#Hard Land|Hard Land]].
 
 ---
 ## Trade Jurisdiction

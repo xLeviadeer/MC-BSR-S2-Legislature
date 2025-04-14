@@ -26,6 +26,14 @@ It is considered a [[Crime]] if a **Citizen** breaks a **Citizen Rule**.
 - *sale* is when a **Citizen** takes a payment for the products attained via a service area or facility
 - *distribution* is when a **Citizen** freely releases products attained via a service area or facility into the hands of an unapproved **Citizen**--via negligence or accident.
 If a [[Property Owner]] negligently allows this to take place they are also included in responsibility for this [[Crime]].
+#### Checking Mailbox Regularly
+A **Citizen** should [[Mailboxes#Keeping Informed About Mailbox Contents|check their mailbox regularly]] in order to ensure they aren't missing deadlines. This is not a strict action requirement, however, **Citizens** will be communicated with from the [[Government]] through their [[Mailboxes|Mailbox]] and hence must check it in case of an important or time sensitive communication.
+#### Possession of Illegally Obtained Assets
+If a **Citizen** possessed an *illegally obtained asset* they must turn the asset into the [[Government]] for no value. It is considered a [[Crime]] for a **Citizen** to knowingly withhold *illegally obtained assets* from the [[Government]]. **Citizens** may be subject to both, immediate [[Crime#Fine|Fines]] and [[Crime#Imprisonment|Imprisonment]] if they are found to be knowingly withholding *illegally obtained assets*.
+
+An *illegally obtained asset* is an asset which was obtained from an [[Alien]] which did not follow all [[Alien#Trade Jurisdiction|trade jurisdictions for Aliens]].
+
+It is also considered a [[Crime]] for a **Citizen** to make trades, exchanges and donations with [[Alien|Aliens]] without following all [[Alien#Trade Jurisdiction|trade jurisdictions for Aliens]].
 
 ---
 ## Citizen Rights
@@ -58,5 +66,5 @@ Two **Citizens** have the right to create loans, a type of [[Contracts|Contract]
 1. **Citizens** have the right to vote early, within the last 2 tax periods before an upcoming [[Election]]. 
 2. **Citizens** have the right to vote without joining the game over a remote platform.
 This right is to ensure that more opinions are heard even when availability of **Citizens** may be low.
-#### Right to Check Mailbox
-A **Citizen** should [[Mailboxes#Keeping Informed About Mailbox Contents|check their mailbox regularly]] in order to ensure they aren't missing deadlines.
+#### Right to Exchange Currency for Bonds and Request Currency Payment in Bonds
+A **Citizen** can exchange their physical currency for a [[Bonds|Bond Value]] when the starting value is at least 25 currency. A **Citizen** can also request to have their payment as a [[Bonds|Bond]] as long as their payment is coming from the [[Government]] and the value is above 25 currency. **Citizens** may be given a [[Bonds|Bond]] instead of currency if the [[Government]] cannot supply physical currency at the time.

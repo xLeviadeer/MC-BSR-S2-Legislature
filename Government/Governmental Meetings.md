@@ -7,4 +7,4 @@ A **Governmental Meeting** is a meeting which [[Elected Officials]] [[Elected Of
 During the meeting, all available officials meet and vote on a choice that must be made. There must be at least 2 available [[Elected Officials]] or a **Governmental Meeting** cannot be held. 
 If a draw is decided, then the choice is the "yes", "go ahead" or "prosecutor wins" answer.
 
-[[Citizen|Citizens]] who are not [[Elected Officials]] can sit in on **Governmental Meetings** but they cannot participate in voting.
+[[Citizen|Citizens]] who are not [[Elected Officials]] can sit in on **Governmental Meetings** but they cannot participate in voting unless the **Governmental Meeting** type specifically calls for citizen voting such as the case for [[Elected Officials#Impeachment|Impeachment]].
