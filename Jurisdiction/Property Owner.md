@@ -38,7 +38,18 @@ In the case that the [[Property]] is a [[Property#Shared Private Property|Shared
 #### Imitative Signage
 A **Property Owner** may not construct [[Signage]] which imitates proper [[Signage]], falsely labels [[Property#Private Property|Private Property]], [[Property#Shared Private Property|Shared Private Property]] or [[Property#Owned Property|Owned Property]], or intends to confuse players about the legitimacy of proper [[Signage]].
 #### Rent Limitations
-A **Property Owner** who choses to require members of their [[Property#Shared Private Property|Shared Private Property]] to pay rent must not charge a rent higher than 20x the value that the member would be paying in [[Taxes]] if they owned the portion of the [[Property#Shared Private Property|Shared Private Property]] which is their [[Citizen#Right to be Issued a Primary Residence|primary residence]], room or other personally (non collectively) inhabited area as a [[Property#Private Property|Private Property]]. 
+A **Property Owner** who choses to require members of their [[Property#Shared Private Property|Shared Private Property]] to pay rent must not charge a rent higher than a value 3x that of the member's *tax contribution*.
+
+A member's *tax contribution* is calculated as follows, using [[Property#Property Metric|Property Metrics]].
+> [!math]
+> $$ \begin{align*} \\
+> & \text{Let } p \text{ be the Property Metric of the Shared Private Property that the member resides in.} \\
+> & \text{Let } n \text{ be the number of residents who reside on this Property.} \\
+> & \text{Let } v = \lfloor 3\frac{p}{n} \rfloor \text{ be the maximum value a fine from the Property Owner} \\
+> & \text{can Fine their members for.} \\
+> \end{align*} $$
+
+The **Property Owner** cannot issue multiple [[Fines]] to get around this restriction.
 
 The **Property Owner** also cannot increase rent or punish members of their [[Property#Shared Private Property|Shared Private Property]] as a result of being issued a [[Crime#Criminal Punishments|Criminal Punishment]] from a member of their [[Property#Shared Private Property|Shared Private Property]].
 
@@ -67,5 +78,3 @@ The **Property Owner** also cannot increase rent or punish members of their [[Pr
 #### Right to Ignore Personal Property Rules
 A **Property Owner** may ignore [[#Personal Property Rules]] that they have set on their own [[Property]] while inside of it and cannot be [[Fines|Fined]] or punished regarding this matter.
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]]*
-#### Right to Have Safe Property Bounds
-A **Property Owner** has the right to request lights to be placed around their property border so that they can safely exit their [[Property#Private Property|Private Property]] or [[Property#Shared Private Property|Shared Private Property]] without being killed.

@@ -37,7 +37,7 @@ Vehicles are considered [[Property#Public Property|Public Property]] when they a
 **Stealing** is defined as taking items:
 - From another player after they die
 - After they are thrown on the ground (if you do not have permission to do so)
-- From a [[Property#Private Property|Private Property]], [[Property#Shared Private Property|Shared Private Property]] or [[Citizen#Right to be Issued a Primary Residence|public primary residence]]'s containers (if you do not have permission to do so)
+- From a [[Property#Private Property|Private Property]], [[Property#Shared Private Property|Shared Private Property]] or [[Government#Request for or Issuing of a Primary Residence|public primary residence]]'s containers (if you do not have permission to do so)
 - From a [[Mailboxes|Mailbox]] if not in agreement with [[Mailboxes#Stealing|mailbox stealing regulations]].
 #### Containment of Hazardous Materials
 Hazardous materials (lava, lava item, fire, TNT, TNT item) must have the [[Signage#Hazardous Materials Signage|required signage]].

@@ -66,7 +66,7 @@ A stack is defined as a Minecraft item slot which contains something.
 The equation below describes how to tax [[Citizen|Citizens]] with different types of [[Property|Properties]]. 
 Generally speaking:
 - [[Property#Private Property|Private Property]] [[Property Owner|Owners]] owe the default tax value
-- [[Property#Shared Private Property|Shared Private Property]] [[Property Owner|Owners]] owe extra tax based on the number of members who have resided (slept, stored, or used as their [[Citizen#Right to be Issued a Primary Residence|primary residence]]) in their [[Property#Shared Private Property|Shared Private Property]].
+- [[Property#Shared Private Property|Shared Private Property]] [[Property Owner|Owners]] owe extra tax based on the number of members who have resided (slept, stored, or used as their [[Government#Request for or Issuing of a Primary Residence|primary residence]]) in their [[Property#Shared Private Property|Shared Private Property]].
 - [[Property#Owned Property|Owned Property]] [[Property Owner|Owners]] owe 130% the taxes of a [[Property#Private Property|Private Property]] [[Property Owner|Owner]]. 
 > [!math]
 > $$

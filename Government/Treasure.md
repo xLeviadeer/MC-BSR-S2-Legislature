@@ -26,3 +26,15 @@ The **Treasurer** has the ability to contract *construction contractors* and is 
 - The *satisfactory rate of currency payment* is determined as the value(s) of currency negotiated for with the **Treasurer** and involved construction contractors which would satisfy the requests of each involved construction contractor. If an agreement on the compensatory value cannot be concluded on then a [[Governmental Meetings|Governmental Meeting]] must be held where [[Elected Officials]] determine the value(s).
 #### Right to Collect Taxes and Fines
 The **Treasurer** can collect [[Taxes]] and [[Fines]] from [[Citizen|Citizens]] and themselves which must go into the **Treasure**. If the **Treasurer** is found to be mishandling tax or fine collection they will be immediately removed from office and are subject to [[Crime#Criminal Punishments|Criminal Punishment]]. The collection of [[Taxes]] and [[Fines]] from [[Citizen|Citizens]] can be hired in or allocated to other present [[Elected Officials]] as long as the [[Taxes]] and [[Fines]] end up at the **Treasurer** so can they put them into the **Treasure**.
+#### Right to Accept and Make Donations to the Treasure
+The **Treasurer** can accept donations from other [[Citizen|Citizens]] as well as make their own donations to the **Treasure**. Mis-allocating donations (not moving all the donation money into the **Treasure**) is considered a [[Crime]].
+
+---
+## Rules of the Treasurer
+The following details the rules the **Treasurer** must abide by. It is considered a [[Crime]] for any of the following to be broken.
+#### Siphoning or Moving Assets
+The **Treasurer** must not siphon or move assets from the **Treasure**. This includes but is not limited to creating [[#Right to Sell Treasure Assets|public sales]] which are immediately bought by a [[Citizen]] intending to collect assets from the **Treasure** or creating sales for prices that are above the market value and cause only the **Treasurer** to be able to buy the assets.
+
+By extension, the **Treasurer** cannot perform self-sales; the **Treasurer** may not buy items from the **Treasure** and they may not intentionally engage with any indirect form of the same action, such as selling items from the **Treasure** to a friend and then buying them from their friend.
+#### Using the Treasure
+The **Treasurer** may not using assets and currency from the **Treasure** for anything other than [[Government|Governmental]] purposes. This includes but is not limited to using funds for private purposes or using assets to construct a private construction.

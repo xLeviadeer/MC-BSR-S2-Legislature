@@ -43,9 +43,13 @@ An **Elected Official** can organize a task force of either volunteers or conscr
 All members of a task force must be fairy and equally* compensated in currency for their participation. Volunteers may be compensated extra, however, no more than 150% the rate of conscripts. The amount of compensation is to be decided during the initial [[Governmental Meetings|Governmental Meeting]]. Task force members have the right to request food and other supplies to aid them with their assignment. If the [[Government]] fails to supply resources necessary for the task it is considered a [[Crime]] on all **Elected Officials**.
 
 Members of the task force must sign a contract for their participation to be valid and enforceable. Task forces should not be formed without a probable cause and task force participation enforcement becomes invalid if conscription is permanent; task forces including conscripts must have a definitive ending period where conscripts are released. Task forces including conscripts cannot last for more than 10 [[Taxes#Tax Period|Tax Periods]].
+#### Access the Collection
+The collection is a set of assets owned by the [[Government]] which are not of high value (high value items are kept in the [[Treasure]]). This set of assets can specifically be accessed by all [[Elected Officials]].
 
 ---
 ## Rules for Elected Officials
+#### Satisfy Governmental Service Requests
+**Elected Officials** must satisfy [[Government#Governmental Services|Governmental Service Requests]] within the appropriate time frame listed with each request. This includes collaborating with the [[Treasure#Treasurer|Treasurer]] when necessary. 
 #### Due Notice
 An **Elected Official** can not inform [[Citizen|Citizens]] of critical matters such as fines, notices of regulation infringement or important notices without a minimum of 3 Minecraft days for a [[Citizen]] to respond. 
 #### Public Supplier Requirement

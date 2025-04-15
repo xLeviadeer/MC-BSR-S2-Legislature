@@ -33,6 +33,6 @@ A list of [[Jurisdiction|jurisdictional properties]] that must be followed in **
 
 ---
 ### Spawn Land
-**Spawn Land** is [[Landarea#Surface Landarea|Surface Landarea]] **Land** in a 2[[Terminology Around Coordinates|K]] block square radius from [[Terminology Around Coordinates|X]]0, [[Terminology Around Coordinates|Y]]0 from bedrock to world height which must follow [[Jurisdiction#Soft Jurisdiction|Soft Jurisdiction]]. When players enter **Spawn Land** they must follow [[Jurisdiction#Soft Jurisdiction|Soft Jurisdiction]]. 
+**Spawn Land** is [[Landarea#Surface Landarea|Surface Landarea]] **Land** in a 1.5[[Terminology Around Coordinates|K]] block square radius from [[Terminology Around Coordinates|X]]0, [[Terminology Around Coordinates|Y]]0 from bedrock to world height which must follow [[Jurisdiction#Soft Jurisdiction|Soft Jurisdiction]]. When players enter **Spawn Land** they must follow [[Jurisdiction#Soft Jurisdiction|Soft Jurisdiction]]. 
 
 A list of [[Jurisdiction|jurisdictional properties]] that must be followed in **Spawn Land** can be found in [[Jurisdiction#Soft Jurisdiction|Soft Jurisdiction]].

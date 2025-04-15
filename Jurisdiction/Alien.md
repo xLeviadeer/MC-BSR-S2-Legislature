@@ -2,24 +2,25 @@
 aliases:
   - Aliens
 ---
-An **Alien** is an individual whose [[Citizen#Right to be Issued a Primary Residence|primary residence]] is not within [[Land#Jurisdictional Land|Jurisdictional Land]]. 
+An **Alien** is an individual whose [[Government#Request for or Issuing of a Primary Residence|primary residence]] is not within [[Land#Jurisdictional Land|Jurisdictional Land]]. 
 
 ---
-## Topographically Based Compliance With Jurisdiction
-**Aliens** are subject to all [[Jurisdiction]] when they enter [[Land#Jurisdictional Land|Jurisdictional Land]] however they do not have [[Citizen#Citizen Rights|Citizen Rights]] and are not bound by [[Citizen#Citizen Rules|Citizen Rules]]. 
+## Topographic Compliance With Jurisdiction
+**Aliens** are subject to all [[Jurisdiction]] when they enter [[Land#Jurisdictional Land|Jurisdictional Land]] however they do not have [[Citizen#Citizen Rights|Citizen Rights]] and are not bound by [[Citizen#Citizen Rules|Citizen Rules]]. It is considered a [[#Crime Law for Aliens|Crime]] for **Aliens** to break any of the following rules.
 #### Non-Secrecy of Entry and Denial of Entry
 For each instance of an **Alien** entering [[Land#Jurisdictional Land|Jurisdictional Land]] they must announce their entry in a way which all [[Citizen|Citizens]] can see. 
 
 Additionally, an **Alien** can be denied entry by an [[Elected Officials#Elected Official|Elected Official]]. If the **Alien** doesn't abide by this denial it is considered a [[Crime]].
+#### Fee for Entry of Hard Land
+**Aliens** must pay a 10 currency flat fee upon entering [[Land#Hard Land|Hard Land]] in the nearest or otherwise easily accessible [[Taxes#Taxpaying Process|Public Tax Mailbox]] with verbal explanation for their entry and confirmation of their compliance with paying the fee within the shortest possible time of entering [[Land#Hard Land|Hard Land]].
 #### Staying in Prison for the Decided Term
 **Aliens** cannot leave prison before they are provisioned to leave either by a [[Elected Officials#Elected Official|Elected Official]] or the ending of their imprisonment term.
 #### Approval of Reintegration
-**Aliens** must be approved by a [[Governmental Meetings|Governmental Meeting]] before they can re-establish their [[Citizen#Right to be Issued a Primary Residence|primary residence]] within [[Land#Jurisdictional Land|Jurisdictional Land]] and hence become a [[Citizen]] (once more).
-#### Fee for Entry of Hard Land
-**Aliens** must pay a 10 currency flat fee upon entering [[Land#Hard Land|Hard Land]] in the nearest or otherwise easily accessible [[Taxes#Taxpaying Process|Public Tax Mailbox]] with verbal explanation for their entry and confirmation of their compliance with paying the fee within the shortest possible time of entering [[Land#Hard Land|Hard Land]].
+**Aliens** must be approved by a [[Governmental Meetings|Governmental Meeting]] before they can re-establish their [[Government#Request for or Issuing of a Primary Residence|primary residence]] within [[Land#Jurisdictional Land|Jurisdictional Land]] and hence become a [[Citizen]] (once more).
 
 ---
 ## Trade Jurisdiction
+The following are a set of jurisdictions regarding trading, exchanging or donations for **Aliens**. It is considered a [[#Crime Law for Aliens|Crime]] for **Aliens** to break any of the following rules.
 #### Participating with Importing and Exporting Fees
 **Aliens** must participate in paying [[Importing and Exporting]] fees. It is considered a [[Crime]] if they do not. [[Elected Officials#Elected Official|Elected Officials]] are exempt from this rule and can make trades, exchanges and donations without an [[Importing and Exporting]] fee if the trade, exchange or donation goes into [[Government|Governmental possession]] and not private possession.
 #### Exchange Monitoring
