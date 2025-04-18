@@ -13,6 +13,12 @@ Breaking **Land Jurisdiction** is considered a [[Crime]] and makes breaker subje
 ---
 ## General Land Jurisdiction
 **General Land Jurisdiction** is the set of regulations used for [[Land#Soft Land|Soft Land]], [[Land#Spawn Land|Spawn Land]] and [[Land#Hard Land|Hard Land]].
+#### Public Property and Unowned Property Mutation
+**Public Property and Unowned Property Mutation** is when either [[Property#Public Property|Public Property]] or [[Property#Unowned Property|Unowned Property]] is mutated without contract or provision of by the [[Government]]. Setting down ender chests or shulker boxes for a short period, often during construction or exchange is tolerated and not punishable unless abused or when 
+##### Illegal Destruction
+**Illegal Destruction** is the destruction of either [[Property#Public Property|Public Property]] or [[Property#Unowned Property|Unowned Property]] without contract or provision by the [[Government]]. 
+##### Illegal Construction
+**Illegal Construction** is construction taking place on either [[Property#Public Property|Public Property]] or [[Property#Unowned Property|Unowned Property]] without contract or provision by the [[Government]]. 
 #### Sleeping Regularly
 Players must sleep when requested by a majority of online Players. If a Player is unable to sleep they should log from the game and rejoin.
 #### Accidental Land Destruction
@@ -24,6 +30,8 @@ Vehicles are considered [[Property#Public Property|Public Property]] when they a
 ---
 ## Soft Jurisdiction
 **Soft Jurisdiction** also includes all jurisdiction from [[#General Land Jurisdiction]].
+#### Mutability for Spawn Land
+[[Land#Spawn Land|Spawn Land]] is exempt from [[#Illegal Destruction]] regulation as it's understanded that new players may need to manipulate terrain to obtain resources. However, only [[Citizen|Citizens]] and [[Elected Officials]] (not [[Alien|Aliens]]) are exempted. [[Land#Provisioned Land|Provisioned Land]] in [[Land#Spawn Land|Spawn Land]] cannot be destructed within the bounds of unless specifically provisioned to. 
 #### Funding Requirement
 [[Land]] under **Soft Jurisdiction** *must* be [[Government|Governmentally]] funded; [[Land]] under **Soft Jurisdiction** cannot be built on by the [[Government]] unless the [[Government]] offers pay to do so.
 

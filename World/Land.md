@@ -30,6 +30,12 @@ The Build Square is a square in the sky which determines what **Land** has [[Jur
 **Soft land** is all [[Landarea#Surface Landarea|Surface Landarea]] in a 25[[Terminology Around Coordinates|K]] block thick outline around the outside of the [[#The Build Square|Build Square]]. When players enter **Soft Land** they must follow [[Jurisdiction#Soft Jurisdiction|Soft Jurisdiction]]. 
 
 A list of [[Jurisdiction|jurisdictional properties]] that must be followed in **Soft Land** can be found in [[Jurisdiction#Soft Jurisdiction|Soft Jurisdiction]].
+#### Provisioned Land
+Provisioned land is a type of **Soft Land** which the [[Government]] has provisioned for a certain purpose where [[Citizen|Citizens]] may have elevated rights such as the ability to manipulate land or make constructions in the designated location. 
+
+Provisioned land has no particular [[Signage]] because it has no strictly defined borders. Provisioned land, instead, has "fuzzy" borders, usually being the edge of a biome or the change of a block type. [[Citizen|Citizens]] are expected to implicitly be able to determine this border based on the purpose of the facility included in the provision. A list of purposes can be found in [[Government#Facilities in Soft Land|the government document, under Facilities in Soft Land]].
+#### Nether Highways
+[[Nether Highways]] are included as a sub-type of **Soft Land**. [[Nether Highways]] are defined as all [[Landarea]] which is inside of a [[Nether Highways|Nether Highway]] structure and in a 1-block outline/radius of the outside of a [[Nether Highways|Nether Highway]] structure. 
 
 ---
 ### Spawn Land

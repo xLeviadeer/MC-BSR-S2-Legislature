@@ -70,6 +70,15 @@ Text:
 - GOOD TO GO
 - public property
 - enter at will
+#### Governmental Property Signage
+Dye Color: Yellow
+Glowing: Yes
+Information Type: Property
+Text
+- WARNING
+- no trespassing
+- authorized
+- personnel only
 #### Shared Private Property Signage
 Dye Color: Orange
 Glowing: Yes

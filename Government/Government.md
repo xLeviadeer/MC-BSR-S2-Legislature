@@ -1,3 +1,7 @@
+---
+aliases:
+  - Governmental
+---
 The **Government** can mean 2 different things: either a body of individuals or a corporation. The **Government** holds the [[Treasure]].
 ## Government as a body of individuals
 In this case, the **Government** means the group of individuals which work under or as part of the **Government** as a corporation. Often, this refers to--specifically--[[Elected Officials]].
@@ -66,8 +70,8 @@ A high value resource can be requested through the [[Government]] via any of app
 > \\
 > & \text{Let } c = \begin{cases} 
 > 	0, & m < 0 \\
-> 	\frac{1}{4}o, & o < \lfloor 2v \rfloor \\
-> 	o, & o >= \lfloor 2v \rfloor \\
+> 	\frac{1}{4}o, & o < \lceil 2v \rceil \\
+> 	o, & o >= \lceil 2v \rceil \\
 > \end{cases} \\
 > & \text{describe the final cost the Citizen owes.} \\
 > \\
@@ -95,6 +99,10 @@ It is considered a [[Crime]] for a [[Citizen]] to trade, exchange or donate shul
 ---
 # Governmental Facilities
 The following is a list of **Governmental Facilities** and their associated relative location when relevant. Recall that North is more negative in the Z direction.
+## Nether Highway System
+The [[Government]] manages a [[Land#Soft Land|Soft Land]] sub-type ([[Land#Nether Highways|Nether Highways|nether highway land]]) system of transport inside the nether composed of [[Nether Highways]]. These are used for transport to [[Land#Soft Land|Soft Land]] locations from [[Land#Hard Land|Hard Land]] (and therefore back from [[Land#Soft Land|Soft Land]] to [[Land#Hard Land|Hard Land]]).
+## Facilities in Hard Land
+Facilities in [[Land#Hard Land|Hard Land]] are primarily contained within [[Land#Hard Land|Hard Land]] and may have a [[Nether Highways#Nether Highway Access Point|Nether Highway Access Point]] but are not required to.
 - ###### Penton Public Area
 	- Purpose: Entry point for the [[Land#The Build Square|Build Square]] and community hub.
 	- Location: NW-S sub-quadrant; roughly -300, ~, -50,000
@@ -117,3 +125,13 @@ The following is a list of **Governmental Facilities** and their associated rela
 - ###### Villager Trader
 	- Purpose: Supply Villagers for players to trade with.
 	- Location: NE-S sub-quadrant; East of the Penton Public Area in the sub-quadrant.
+## Facilities in Soft Land
+Facilities in [[Land#Soft Land|Soft Land]] are primarily contained in [[Land#Soft Land|Soft Land]] and are required to have a [[Nether Highways#Nether Highway Access Point|Nether Highway Access Point]]. This means that facilities listed below will not have a location since they can all be located in the nether using the [[#Nether Highway System]]. 
+- ###### Spawn Access
+	- Purpose: Allows players to access spawn and newly spawned players to access [[Land#Hard Land|Hard Land]].
+- ###### Sand Mining Desert
+	- Purpose: Mining sand
+- ###### Gravel Mining Ocean
+	- Purpose: Mining gravel
+- ###### Dirt Mining Plains
+	- Purpose: Mining dirt

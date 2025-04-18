@@ -17,6 +17,8 @@ Any **Elected Official** can call for a [[Governmental Meetings|Governmental Mee
 An **Elected Official** can add a [[Assignments#Public Assignments|Public Task]] without requiring the approval of a [[Governmental Meetings|Governmental Meeting]], however they cannot exploit this to complete a [[Assignments#Public Assignments|Public Project]] in small parts. Additionally, [[Assignments#Public Assignments|Public Tasks]] cannot be assigned without giving at least 1 tax period of notice before the assigner of the [[Assignments#Public Assignments|Public Task]] can participate in completion of the [[Assignments#Tasks|Task]] or until another [[Citizen]] has already partaken in completion of the [[Assignments#Tasks|Task]].
 #### Add Public Projects *with* the approval of a Governmental Meeting
 An **Elected Official** can add a [[Assignments#Public Assignments|Public Project]] if they gain the approval of the **Elected Officials**. 
+#### Act Through the Treasurer *with* the approval of a Government Meeting or the Treasurer
+An **Elected Official** has the ability to force the [[Treasure#Treasurer|Treasurer]] to use one of their rights if they are approved to do so at a [[Governmental Meetings|Governmental Meeting]]. The [[Treasure#Treasurer|Treasurer]] may also solely agree with usage of their rights without the approval of a [[Governmental Meetings|Governmental Meeting]].
 #### Officialize Fines
 An **Elected Official** can officialize [[Fines]] that [[Citizen|Citizens]] (including themselves) submit. If a [[Fines|Fine]] is too little or too much for the [[Crime]] the **Elected Official** can negotiate the terms of the [[Fines|Fine]] in order to officialize it.
 #### Incur Criminal Punishments
@@ -45,6 +47,10 @@ All members of a task force must be fairy and equally* compensated in currency f
 Members of the task force must sign a contract for their participation to be valid and enforceable. Task forces should not be formed without a probable cause and task force participation enforcement becomes invalid if conscription is permanent; task forces including conscripts must have a definitive ending period where conscripts are released. Task forces including conscripts cannot last for more than 10 [[Taxes#Tax Period|Tax Periods]].
 #### Access the Collection
 The collection is a set of assets owned by the [[Government]] which are not of high value (high value items are kept in the [[Treasure]]). This set of assets can specifically be accessed by all [[Elected Officials]].
+#### Approve Nether Highway Extensions
+An **Elected Officials** can approve [[Nether Highways#Private Nether Tunnel Extensions|Private Nether Tunnel Extensions]] to [[Nether Highways]]. They cannot self-approve their own [[Nether Highways#Private Nether Tunnel Extensions|Private Nether Tunnel Extensions]] and cannot approve more than 5 extensions in less than 10 [[Taxes#Tax Period|Tax Periods]].
+#### Provision Land Mutation
+An **Elected Official** has the right to provision a land mutation; an **Elected Official** can legally disobey [[Jurisdiction]] regarding [[Jurisdiction#Public Property and Unowned Property Mutation|Public Property and Unowned Property Mutation]]. However, **Elected Officials** are to be held responsible for changes to this [[Land]] such that if their changes work to destroy [[Land]] overall *without* the approval of a [[Governmental Meetings|Governmental Meeting]] or cause the death of others due to a preventable issue then it is considered a [[Crime]].
 
 ---
 ## Rules for Elected Officials

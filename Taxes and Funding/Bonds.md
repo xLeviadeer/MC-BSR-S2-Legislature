@@ -1,19 +1,27 @@
 ---
 aliases:
-  - Bond Value
   - Bond
 ---
-
 **Bonds** are a form of currency issued by the [[Government]].
 
 ---
+## Bonds as a Currency
+**Bonds** as a currency can be described using 3 terms.
+#### Bonds
+An amount of currency *before* adjustment (v); the flat value that is to be adjusted.
+#### Bond Value
+An amount of currency *after* adjustment (a); the value after adjustment.
+#### Physical Bonds
+A token item representing a bond (before adjustment) which can be exchanged in for physical currency. Physical Bonds are not subject to the bond rate/adjustment since they can converted to physical currency.
+
+Typically, Physical Bonds are issued as popped chorus fruit.
 ## Bond Rate
 The bond rate is the rate of currency which is allocated in excess when a **Bond** is issued. The bond rate is 1.2; 20%/120% floored
 > [!math]
 > $$ \begin{align*}
 > & \text{Let } v \text{ be some amount of currency due.} \\
 > \\
-> & \text{Let } a = \lfloor (v * 1.2) \rfloor \text{ be the amount of currency issued in the Bond.}
+> & \text{Let } a = \lfloor v * 1.2 \rfloor \text{ be the amount of currency issued in the Bond.}
 > \end{align*} $$
 ## When Bonds Can be Issued
 **Bonds** can be issued when the [[Government]] must pay a [[Citizen]] currency for any reason under the following circumstances.

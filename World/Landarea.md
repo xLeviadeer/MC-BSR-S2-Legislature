@@ -2,7 +2,7 @@
 
 ---
 ## Surface Landarea
-**Surface Landarea** are all blocks in [[World|MC:BSR-S2]] which are above [[Terminology Around Coordinates|Y]]50 on land or above [[Terminology Around Coordinates|Y]]30 underwater.
+**Surface Landarea** are all blocks in [[World|MC:BSR-S2]] which are above [[Terminology Around Coordinates|Y]]50 on land or above [[Terminology Around Coordinates|Y]]10 underwater.
 
 --- 
 ## Light Landarea

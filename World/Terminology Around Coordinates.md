@@ -12,6 +12,11 @@ aliases:
 **Z** references the Z coordinate within the Minecraft world.
 
 ---
+## **Hori** and **Vert**
+**Hori** references either [[Terminology Around Coordinates#**X**, **Y** and **Z** Terms|X]] or [[Terminology Around Coordinates#**X**, **Y** and **Z** Terms|Y]]  but not both.
+**Vert** references [[Terminology Around Coordinates#**X**, **Y** and **Z** Terms|Z]].
+
+---
 ## **~** and **\***
 **~** refers to all values of one coordinate. A blank or unlisted value means **~**.
 > [!example]

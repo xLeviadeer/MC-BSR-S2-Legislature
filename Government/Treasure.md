@@ -2,6 +2,10 @@ The **Treasure** is the sum of money and all other assets that the [[Government]
 This money is obtained primarily from [[Taxes]] and is primarily spent on [[Assignments#Public Assignments|Public Assignments]].
 
 The **Treasure** is held by the current [[#Treasurer]].
+## Treasure Currency
+The **Treasure** currency is the currency funds that the [[Government]] holds.
+## Treasure Assets
+The **Treasure** assets are all items, blocks and storable objects which the the [[Government]] holds which are not currency.
 
 ---
 # Treasurer
@@ -28,6 +32,10 @@ The **Treasurer** has the ability to contract *construction contractors* and is 
 The **Treasurer** can collect [[Taxes]] and [[Fines]] from [[Citizen|Citizens]] and themselves which must go into the **Treasure**. If the **Treasurer** is found to be mishandling tax or fine collection they will be immediately removed from office and are subject to [[Crime#Criminal Punishments|Criminal Punishment]]. The collection of [[Taxes]] and [[Fines]] from [[Citizen|Citizens]] can be hired in or allocated to other present [[Elected Officials]] as long as the [[Taxes]] and [[Fines]] end up at the **Treasurer** so can they put them into the **Treasure**.
 #### Right to Accept and Make Donations to the Treasure
 The **Treasurer** can accept donations from other [[Citizen|Citizens]] as well as make their own donations to the **Treasure**. Mis-allocating donations (not moving all the donation money into the **Treasure**) is considered a [[Crime]].
+#### Right to Issue Grants
+The **Treasurer** can issue [[Grants]] to [[Citizen|Citizens]]. The **Treasurer** is responsible for deciding the funding amount of the [[Grants|Grant]] and passing out [[Bonds#Physical Bonds|Physical Bonds]] to support the funding amount. 
+
+The **Treasurer** cannot give themself a [[Grants|Grant]] without the approval of a [[Governmental Meetings|Governmental Meeting]].
 
 ---
 ## Rules of the Treasurer
@@ -37,4 +45,4 @@ The **Treasurer** must not siphon or move assets from the **Treasure**. This inc
 
 By extension, the **Treasurer** cannot perform self-sales; the **Treasurer** may not buy items from the **Treasure** and they may not intentionally engage with any indirect form of the same action, such as selling items from the **Treasure** to a friend and then buying them from their friend.
 #### Using the Treasure
-The **Treasurer** may not using assets and currency from the **Treasure** for anything other than [[Government|Governmental]] purposes. This includes but is not limited to using funds for private purposes or using assets to construct a private construction.
+The **Treasurer** may not use assets and currency from the **Treasure** for anything other than [[Government|Governmental]] purposes. This includes but is not limited to using funds for private purposes or using assets to construct a private construction.

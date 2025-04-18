@@ -53,5 +53,11 @@ Two **Citizens** have the right to create loans, a type of [[Contracts|Contract]
 1. **Citizens** have the right to vote early, within the last 2 tax periods before an upcoming [[Election]]. 
 2. **Citizens** have the right to vote without joining the game over a remote platform.
 This right is to ensure that more opinions are heard even when availability of **Citizens** may be low.
-#### Right to Exchange Currency for Bonds and Request Currency Payment in Bonds
-A **Citizen** can exchange their physical currency for a [[Bonds|Bond Value]] when the starting value is at least 25 currency. A **Citizen** can also request to have their payment as a [[Bonds|Bond]] as long as their payment is coming from the [[Government]] and the value is above 25 currency. **Citizens** may be given a [[Bonds|Bond]] instead of currency if the [[Government]] cannot supply physical currency at the time.
+#### Right to Exchange Bonds
+A **Citizen** can exchange their physical currency for a [[Bonds#Bonds|Bond]] when the starting value is at least 25 currency. 
+
+A **Citizen** can also request to have their payment as a [[Bonds|Bond]] or [[Bonds#Bond Value|Bond Value]] as long as their payment is coming from the [[Government]] and the value is above 25 currency. **Citizens** may be given a [[Bonds|Bond]] instead of currency if the [[Government]] cannot supply physical currency at the time.
+
+A **Citizen** may exchange [[Bonds#Physical Bonds|Physical Bonds]] for physical currency or [[Bonds#Bonds|Bonds]] through the [[Government]]. 
+#### Right to Request Grants
+A **Citizen** can request a [[Grants|Grant]] via the [[Grants#Grant Applications|Grant Applications]] process.

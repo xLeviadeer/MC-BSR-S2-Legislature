@@ -78,3 +78,5 @@ The **Property Owner** also cannot increase rent or punish members of their [[Pr
 #### Right to Ignore Personal Property Rules
 A **Property Owner** may ignore [[#Personal Property Rules]] that they have set on their own [[Property]] while inside of it and cannot be [[Fines|Fined]] or punished regarding this matter.
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]]*
+#### Right to Request a Private Nether Highway Extension
+A **Property Owner** has the right to request a [[Nether Highways#Private Nether Tunnel Extensions|Private Nether Tunnel Extension]].
