@@ -25,6 +25,18 @@ A *primary residence* is the primary location that a [[Citizen]] resides; a [[Ci
 
 Upon request, the [[Government]] must supply a [[Property#Public Property|Public Property]] residence which offers, at the minimum, shelter which has room to be entered, light in order to stop mobs from spawning, a bed which can be slept in and a [[Property Owner#Mailbox Construction and Placement|mailbox]].
 
+A [[Citizen]] must obey the following rules while residing in this location.
+* No more than 4 chests
+* No more than 1 crafting table
+* No more than 3 of any combination of the following
+	* Smoker
+	* Furnace
+	* Blast Furnace
+* No more than 1 bed unless provisioned otherwise by an [[Elected Officials|Elected Official]].
+* No more than 1 stonecutter
+* [[Elected Officials]] must have a clear entry into the space to check the contents of all chests
+* No decorations or alterations that have not been provided in the rules
+
 The [[Government]] must fulfill this request within 2 Minecraft days of the request being received or within 2 Minecraft days of the [[Citizen]] being accepted as a [[Citizen]].
 ## Request a Private Assignments Board
 A *private assignments board* is a location which is used to display a list of [[Assignments#Private Assignments|Private Assignments]] for a particular [[Citizen]]. 
@@ -54,9 +66,7 @@ A [[Citizen]] has the right to request basic living resources where basic living
 	- Iron Hoe (2)
 - Melons (64)
 
-[[Citizen|Citizens]] are given the basic living resources when they are accepted as a [[Citizen]] and first enter their 
-
-The [[Government]] must fulfill this request within 3 Minecraft days of the request being received.
+[[Citizen|Citizens]] are given the basic living resources when they are accepted as a [[Citizen]] and first enter their primary residence. The [[Government]] must fulfill this request within 3 Minecraft days of the request being received.
 #### Requests for Expensive Assets
 The following items use the following rules for requesting assets of high economic value.
 
@@ -84,6 +94,10 @@ A high value resource can be requested through the [[Government]] via any of app
 > \end{align*} $$
 
 The [[Government]] reserves the right to buy from the cheapest buyer. The [[Government]] cannot buy from a source which adds restrictions the the purchase; all assets purchased must be fully owned, without contract, by the new owner. The [[Government]] may not obtain supply of items from [[Alien|Aliens]] or otherwise outside sources from individuals who are not [[Citizen|Citizens]].
+
+A [[Citizen]] who sells a particular expensive asset to the [[Government]] cannot buy this type of expensive asset back. It is considered a [[Crime]] to do so.
+###### Approval for Removal and Addition of Expensive Assets
+A new resource being added as an expensive asset with a request plan or removed as an expensive asset must be approved via [[Governmental Meetings|Governmental Meeting]].
 ###### Request for Netherite Upgrades
 A [[Citizen]] has the right to request assisted obtainment of a Netherite Upgrade using the following conditions.
 1. If the [[Government]] owns a Netherite Upgrade the [[Government]] will duplicate the upgrade and sell it to citizens for a flat rate of 17 diamonds.
@@ -94,7 +108,7 @@ It is considered a [[Crime]] for a [[Citizen]] to trade, exchange or donate upgr
 ###### Request for Shulker Boxes
 A [[Citizen]] has the right to request assisted obtainment of Shulker Boxes. The [[Government]] uses the [[#Requests for Expensive Assets|default expensive assets purchasing process]] to assist with obtainment for Shulker Boxes. The [[Government]] will assist with a maximum of *3* shulkers per player.
 
-It is considered a [[Crime]] for a [[Citizen]] to trade, exchange or donate shulkers obtained via asset distribution services to other [[Citizen|Citizens]]. A [[Citizen]] is also unable to sell shulkers back to the government if they have been assisted with any shulker box obtainment and also have not been assisted the maximum of 3 times.
+It is considered a [[Crime]] for a [[Citizen]] to trade, exchange or donate shulkers obtained via asset distribution services to other [[Citizen|Citizens]].
 
 ---
 # Governmental Facilities
@@ -135,3 +149,7 @@ Facilities in [[Land#Soft Land|Soft Land]] are primarily contained in [[Land#Sof
 	- Purpose: Mining gravel
 - ###### Dirt Mining Plains
 	- Purpose: Mining dirt
+## Cities and Districts
+Certain areas are united under a common system╌cities. These can have further sub-zones╌districts.
+- ###### Penton City
+	- Island District

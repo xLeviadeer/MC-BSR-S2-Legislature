@@ -3,6 +3,7 @@ A **Property** is a subsection of [[Land]] which is owned by either a [[Property
 If a **Property** is within 12 blocks (considering only [[Terminology Around Coordinates|X]], and [[Terminology Around Coordinates|Z]] without diagonals) of another **Property** of the same [[Property Owner]] then the properties are required to be merged into one bigger **Property** where the space in-between is owned and [[Taxes|Taxed]],
 #### Property Edges
 A **Property** edge cannot be shorter than 5 blocks long. 
+A **Property** cannot be constructed on on it's edges (a perimeter of 1 block inside of the outside most edges of the property). A **Property** must have no constructions that reach to it's outermost perimeter line of 1[[Terminology Around Coordinates#**Hori** and **Vert**|Hori]] block thickness. Flat construction or lines of blocks defining the edge of the property are permitted, however, any form of obstruction for player mobility is considered a [[Crime]], where each violation is worth a recurring (by [[Taxes#Tax Period|Tax Period]]) 5 currency [[Fines|Fine]].
 > [!example]
 > A structure with top-down area of dimensions [[Terminology Around Coordinates|X]]1 by [[Terminology Around Coordinates|Z]]10 would be a **Property** of size [[Terminology Around Coordinates|X]]5 by [[Terminology Around Coordinates|Z]]10 with a [[#Property Metric]] of 50.
 #### Abstractly Shaped Property
@@ -33,12 +34,13 @@ The area of subdivisional lines counts twice when calculating the [[Property#Pro
 
 ---
 ## Property Size
-**Property Size** is a way to classify if a **Property** is "large" or "small". 
+**Property Size** is a way to classify if a **Property** is "large", "small" or "massive". 
 #### Small Property
 A **Small Property** is a **Property** with a [[#Property Metric]] of *less than or equal to* 400.
-
 #### Large Property
-A **Large Property** is a **Property** with a [[#Property Metric]] of *more than* 400.
+A **Large Property** is a **Property** with a [[#Property Metric]] of *more than* 400 and *less than or equal to* 20,000.
+#### Massive property
+A **Massive Property** is a **Property** with a [[#Property Metric]] of *more than* 20,000.
 
 ---
 ## Public Property

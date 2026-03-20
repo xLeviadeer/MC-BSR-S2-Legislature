@@ -27,8 +27,8 @@ An **Elected Official** can incur (issue) [[Crime#Criminal Punishments|Criminal 
 An **Elected Official** can release a prisoner from [[Crime#Imprisonment|Prison]] early with the approval of a [[Governmental Meetings]].
 #### Allocate Small Properties *without* the approval of a Governmental Meeting
 An **Elected Official** can allocate [[Property#Small Property|Small Property]] for themselves and others without approval of a [[Governmental Meetings|Governmental Meeting]]. Allocated land must be allocated via purchase detailed in [[Purchasing Land]].
-#### Allocate Large Properties *with* the approval of a Governmental Meeting
-An **Elected Official** can allocate [[Property#Large Property|Large Property]] for themselves and others with the approval of a [[Governmental Meetings|Governmental Meeting]]. Allocated land must be allocated via purchase detailed in [[Purchasing Land]].
+#### Allocate Large and Massive Properties *with* the approval of a Governmental Meeting
+An **Elected Official** can allocate [[Property#Large Property|Large Properties]] and [[Property#Massive property|Massive Properties]] for themselves and others with the approval of a [[Governmental Meetings|Governmental Meeting]]. Allocated land must be allocated via purchase detailed in [[Purchasing Land]].
 #### Allocate Subsurface Land Provisions
 An **Elected Official** can allocate [[Subsurface Land Provisions]] for themselves and others. They must determine a provision [[Terminology Around Coordinates|Y]] level before granting a provision.
 #### Adjust the Circumstantial Tax Value
@@ -39,6 +39,8 @@ An **Elected Official** can postpone the [[Taxes#Tax Period|Tax Period]] if no *
 An **Elected Official** has the right to [[Jurisdiction#Vehicles as Property|terminate vehicles]] in [[Property#Public Property|Public Property]].
 #### Create Millages *with* the Approval of a Government Meeting
 An **Elected Official** can create a [[Millages|Millage]] with the approval of a approval of a [[Governmental Meetings|Governmental Meeting]].
+#### Add and Remove Expensive Asset Plans *with* the approval of a Governmental Meeting
+An **Elected Official** has the right to add and remove [[Government#Requests for Expensive Assets|expensive assets]] with approval of a [[Governmental Meetings|Governmental Meeting]].
 #### Organize Task Forces *with* the approval of a Governmental Meeting
 An **Elected Official** can organize a task force of either volunteers or conscripts with approval of a [[Governmental Meetings|Governmental Meeting]]. Volunteers should always be taken before conscription is applied. If users are conscripted and refuse to comply it is considered a [[Crime]]. It is also considered a [[Crime]] if members do not put effort into completing the assigned task. 
 
@@ -51,6 +53,16 @@ The collection is a set of assets owned by the [[Government]] which are not of h
 An **Elected Officials** can approve [[Nether Highways#Private Nether Tunnel Extensions|Private Nether Tunnel Extensions]] to [[Nether Highways]]. They cannot self-approve their own [[Nether Highways#Private Nether Tunnel Extensions|Private Nether Tunnel Extensions]] and cannot approve more than 5 extensions in less than 10 [[Taxes#Tax Period|Tax Periods]].
 #### Provision Land Mutation
 An **Elected Official** has the right to provision a land mutation; an **Elected Official** can legally disobey [[Jurisdiction]] regarding [[Jurisdiction#Public Property and Unowned Property Mutation|Public Property and Unowned Property Mutation]]. However, **Elected Officials** are to be held responsible for changes to this [[Land]] such that if their changes work to destroy [[Land]] overall *without* the approval of a [[Governmental Meetings|Governmental Meeting]] or cause the death of others due to a preventable issue then it is considered a [[Crime]].
+#### Validate Trash Can Constructions
+An **Elected Official** can validate the construction of a [[Trash Can]] for a property or the proximity of a property. Validated [[Trash Can|Trash Cans]] should adhere to the following principles except for extenuating circumstances.
+1. A [[Trash Can]] should block direct access to lava such that a player cannot be burned in the lava without destroying the trash can.
+2. A [[Trash Can]] should be minimal and take up only a few blocks area of space.
+3. A [[Trash Can]] should be similar to the construction of pre-exiting regulated [[Trash Can]] constructions.
+Once a [[Trash Can]] is validated it requires [[Signage#Trash Can Signage|Trash Can Signage]].
+#### Approve Foundation & Expansion of Cities *with* the approval of a Governmental Meeting and a Vote of the People
+An **Elected Official** may approve the foundation of a [[City]] made by a [[Citizen]] after using a [[Governmental Meetings|Governmental Meeting]] to get a majority vote of the people. Only if all votes succeed with majority can a [[City]] be approved for foundation.
+#### Approve Tall City Structures
+An **Elected Official** may approve [[City]] structures which are taller than y220 must be approved via a majority vote in a [[Governmental Meetings|Governmental Meeting]]. Approved buildings should be those which do not cause an eye-sore & further the city zone.
 
 ---
 ## Rules for Elected Officials
@@ -61,11 +73,12 @@ An **Elected Official** can not inform [[Citizen|Citizens]] of critical matters 
 #### Public Supplier Requirement
 An **Elected Official** must always structure asset requests for [[Assignments#Public Assignments|Public Assignments]] such that the resources can be supplied by all [[Citizen|Citizens]] without restriction; **Elected Officials** can not privatize the supplement of assets into the [[Treasure]]. 
 
-This, by extension, means that even if a particular supplier has shown great value and decency in behavior they cannot be accepted as the sole supplier for an asset. 
+This, by extension, means that even if a particular supplier has shown great value and decency in behavior they cannot be accepted as the sole supplier for one or multiple assets. 
 #### Impeachment
 An **Elected Official** may be forcefully removed from office if at least one **Elected Official** and a [[Citizen]] agree to start an impeachment vote. An impeachment vote follows the following steps:
-1. The **Elected Official** calls for a [[Governmental Meetings|Governmental Meeting]]
+1. The **Elected Official** calls for a [[Governmental Meetings#Citizen Meeting|Citizen Meeting]].
 2. During the meeting all Citizens vote yea or nay on whether to remove an **Elected Official** from the [[Government]] where yea is confirmation to remove the **Elected Official**
-3. If the **Elected Official** has more than 2/3rds of the votes as yea then they will be forced to leave the [[Government]] for the current term and the next person in order from the previous [[Election]] will be moved into the [[Government]].
+3. If the [[Governmental Meetings#Citizen Meeting|Citizen Meeting]] is approved then the **Elected Official** will be forced to leave the [[Government]] for the current term and the next person in order from the previous [[Election]] will be moved into the [[Government]].
+An impeachment cannot be started twice for the same **Elected Official** in the same [[Election|electoral period]].
 #### Maximum Term Length
-If any one **Elected Official** is part of the [[Government]] for more than 5 consecutive terms the top **Elected Official** of the last [[Election]] should be removed from vote in the next [[Election]]. The count of consecutive terms resets if any one **Elected Official** is removed from the [[Government]] as a result of this policy.
+If any one **Elected Official** is part of the [[Government]] for more than 5 consecutive terms the top **Elected Official** of the last [[Election]] should be removed from vote in the next [[Election]]. The count of consecutive terms resets if any one **Elected Official** is removed from the [[Government]] as a result of this policy. **Elected Officials** can ignore this rule if they are top (#1) voted in the last [[Election]]. Additionally, the top voted candidate from the last [[Election]] may choose one other individual to except from this rule.

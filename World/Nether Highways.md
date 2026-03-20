@@ -43,13 +43,15 @@ Extensions must be constructed to follow all [[#Tunnel Construction|tunnel const
 The **Nether Highway** Mapping System is a map designed to represent the **Nether Highway** to make navigation easier. The following is true about the **Nether Highway** Mapping System. 
 #### General Mapping Rules
 General Mapping Rules apply to both [[#Soft Land Mapping|soft]] and [[#Hard Land Mapping|hard land]] mapping.
-- Each **Nether Highway** Hub is represented with a vibrant (concrete) color and marked accordingly in each hub.
-- Each **Nether Highway** Endpoint is marked with a dull (terracotta) color or black.
-- Tunnels are denoted as light gray lines, darker if leading between hubs and brighter if leading between hub and endpoint.
+- Each **Nether Highway** Hub is represented with a vibrant (concrete) color and marked accordingly in each hub. [[Signage]] requirements are listed [[Signage#Nether Highway Signage|in the signage document]].
+- Each **Nether Highway** Endpoint is marked with a dull (terracotta) color or black. [[Signage]] requirements are listed [[Signage#Nether Highway Signage|in the signage document]].
+- Tunnels are denoted as light gray lines, darker if leading between hubs and brighter if leading between hub and endpoint. 
+- [[#Private Nether Tunnel Extensions]] are not included in any map.
+- If a line/node touches the border of the map it is assumed to be outside of the map's range.
 #### Soft Land Mapping
 Soft Land Mapping only applies to the map for [[Land#Soft Land|Soft Land]].
 - Each pixel on the map represents 500 blocks of *distance*. A pixel does *not* represent 500 blocks of area. 
--  [[Land#The Build Square|The Build Square]] is denoted as 4 4x4 (pixels) squares. **Nether Highway** Hubs and Endpoints within [[Land#The Build Square|The Build Square]] are not shown on the map and are not marked according to color 
+- [[Land#The Build Square|The Build Square]] is denoted as 4 4x4 (pixels) squares. **Nether Highway** Hubs and Endpoints within [[Land#The Build Square|The Build Square]] are not shown on the map and are not marked according to color 
 #### Hard Land Mapping
 Hard Land Mapping only applies to the map for [[Land#Hard Land|Hard Land]].
 - Each pixel on the map represents 25 blocks of *distance*. A pixel does *not* represent 25 blocks of area. 

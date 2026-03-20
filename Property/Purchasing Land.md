@@ -2,7 +2,7 @@
 aliases:
   - Purchase Land
 ---
-To purchase land, a **Citizen** must speak to an [[Elected Officials#Elected Official|Elected Official]] or in the case of the prospective purchaser being an [[Elected Officials#Elected Official|Elected Official]] they must determine if the [[Land]] is a [[Property#Large Property|Large Property]] and will hence require a [[Governmental Meetings|Governmental Meeting]].
+To purchase land, a **Citizen** must speak to an [[Elected Officials#Elected Official|Elected Official]] or in the case of the prospective purchaser being an [[Elected Officials#Elected Official|Elected Official]] they must determine if the [[Land]] is a [[Property#Property Size|Large or Massive Property]] and will hence require a [[Governmental Meetings|Governmental Meeting]].
 
 The price of land is decided by taking the [[Property#Property Metric|Property Metric]] and dividing it by 8, ceilinged to an integer.
 > [!math]

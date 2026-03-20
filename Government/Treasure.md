@@ -28,6 +28,8 @@ The **Treasurer** can self approve [[Assignments#Public Assignments|Public Proje
 The **Treasurer** has the ability to contract *construction contractors* and is required to compensate them for their work at a *satisfactory rate of currency payment*.
 - A *construction contractor* is an individual who is tasked with using their private assets alongside assets from the **Treasure** to complete a construction job which may not have a set payment value until the construction is complete.
 - The *satisfactory rate of currency payment* is determined as the value(s) of currency negotiated for with the **Treasurer** and involved construction contractors which would satisfy the requests of each involved construction contractor. If an agreement on the compensatory value cannot be concluded on then a [[Governmental Meetings|Governmental Meeting]] must be held where [[Elected Officials]] determine the value(s).
+#### Right to Solely Allocate Large Properties
+The **Treasurer** can allocate [[Property#Large Property|Large Property]] without the approval of a [[Governmental Meetings|Governmental Meeting]] but they may not allocate [[Property#Massive property|Massive property]].
 #### Right to Collect Taxes and Fines
 The **Treasurer** can collect [[Taxes]] and [[Fines]] from [[Citizen|Citizens]] and themselves which must go into the **Treasure**. If the **Treasurer** is found to be mishandling tax or fine collection they will be immediately removed from office and are subject to [[Crime#Criminal Punishments|Criminal Punishment]]. The collection of [[Taxes]] and [[Fines]] from [[Citizen|Citizens]] can be hired in or allocated to other present [[Elected Officials]] as long as the [[Taxes]] and [[Fines]] end up at the **Treasurer** so can they put them into the **Treasure**.
 #### Right to Accept and Make Donations to the Treasure
@@ -36,6 +38,8 @@ The **Treasurer** can accept donations from other [[Citizen|Citizens]] as well a
 The **Treasurer** can issue [[Grants]] to [[Citizen|Citizens]]. The **Treasurer** is responsible for deciding the funding amount of the [[Grants|Grant]] and passing out [[Bonds#Physical Bonds|Physical Bonds]] to support the funding amount. 
 
 The **Treasurer** cannot give themself a [[Grants|Grant]] without the approval of a [[Governmental Meetings|Governmental Meeting]].
+#### Moderate Expensive Asset Market Pricing
+The **Treasurer** has the [[Property Owner#Market Control|right to force a property owner to lower the price of an expensive asset]] by 20% once each [[Election|electoral period]].
 
 ---
 ## Rules of the Treasurer

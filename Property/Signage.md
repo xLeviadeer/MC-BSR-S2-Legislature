@@ -3,6 +3,11 @@
 It is considered a [[Crime]] of the [[Property Owner]] to not follow all **Signage Requirements**.
 1. All **Signage** must be in a [[#Valid Signage Locations|Valid Signage Location]] according to its [[#Property Information Signage vs General Information Signage|information type status]].
 2. **Signage** must follow the exact [[#Signage Formatting]] detailed below.
+If a [[Citizen]] fails to follow the **Signage Requirements** they will be [[Fines|Fined]] at a rate of 20 currency for each level of determined "severity" of **Signage** violation.
+> [!example]
+> - A misspelling would be of low severity; severity level 1
+> - A missing sign would be of medium severity; severity level 2 or 3
+> - Entirely missing signage would be of high severity; severity level 4+
 
 ---
 ## Valid Signage Locations
@@ -26,7 +31,7 @@ If a [[Property#Private Property|Private Property]] or [[Property#Shared Private
 [[Property#Unowned Property|Unowned Property]] must have all relevant **Signage** in it's center-point or focal location.
 
 ---
-## Signage Formatting
+## Property Signage Formatting
 #### Subsurface Land Provision Signage
 Dye Color: Blue
 Glowing: Yes
@@ -45,6 +50,15 @@ Text:
 - caution when
 - near hazardous
 - material
+#### Trash Can Signage
+Dye Color: Blue
+Glowing: Yes
+Information Type: Object
+Text:
+* 
+* TRASH CAN
+* validated by ‹[[Elected Officials#Elected Official|Elected Official]] name›
+* 
 #### (Shared) Private Property Killing Signage
 **Important**: If **(Shared) Private Property Killing Signage** is present, then [[#(Shared) Private Property Damaging Signage]] is not required.
 Dye Color: Blue
@@ -131,6 +145,23 @@ Text:
 - owned property
 - understand
 - owner intent
+## Nether Highway Signage
+#### General
+Glowing: Yes
+Information Type: Highway
+Text:
+- 
+- \<Soft/Hard> \<Dull/Bright>
+- \--- \<Color> \---
+- 
+#### Black Endpoints
+Glowing: Yes
+Information Type: Highway
+Text:
+- 
+- Soft
+- \--- Black \---
+- 
 
 ---
 ## Defining Extra Information Alongside Regular Signage

@@ -21,7 +21,7 @@ It is considered a [[Crime]] if a **Property Owner** breaks a **Property Owner R
 #### Building Within Property Bounds
 **Property Owners** are expected to build within the bounds of the [[Property]] they have purchased. If a **Property Owner** wishes to acquire more land they should consult a [[Elected Officials#Elected Official|Elected Official]] before building into [[Property]] they do not own.
 #### Increased Taxes for Shared Property
-If a **Property Owner** hosts multiple members but not all members in their [[Property#Private Property|Private Property]] they will be required to pay an [[Taxes#For Shared Private Property Owners|increased amount]] of [[Taxes]].
+If a **Property Owner** hosts multiple members of which hold this property as their [[Government#Request for or Issuing of a Primary Residence|primary residence]] the **Property Owner** will be required to pay an [[Taxes#For Shared Private Property Owners|increased amount]] of [[Taxes]].
 #### Increased Taxes for Owned Property
 If the [[Property]] is an [[Property#Owned Property|Owned Property]] instead of a [[Property#Private Property|Private Property]] the **Property Owner** will be required to pay an [[Taxes#For Owned Property Owners|increased amount]] of [[Taxes]].
 #### Edge Spacing
@@ -52,6 +52,18 @@ A member's *tax contribution* is calculated as follows, using [[Property#Propert
 The **Property Owner** cannot issue multiple [[Fines]] to get around this restriction.
 
 The **Property Owner** also cannot increase rent or punish members of their [[Property#Shared Private Property|Shared Private Property]] as a result of being issued a [[Crime#Criminal Punishments|Criminal Punishment]] from a member of their [[Property#Shared Private Property|Shared Private Property]].
+#### Market Control
+A **Property Owner** cannot increase the market price of an item if it is an [[Government#Requests for Expensive Assets|expensive asset]] which they sell to the [[Government]] unless the [[Government]] approves of the price increase with a [[Governmental Meetings|Governmental Meeting]]. 
+
+The [[Government]] has the right to force participation of a **Property Owner** with the [[Government#Requests for Expensive Assets|request system for expensive assets]] if the **Property Owner** holds a monopoly on a resources or is involved in a oligopoly on the resource. If the **Property Owner** doesn't comply it's considered a [[Crime]]. 
+
+The [[Treasure#Treasurer|Treasurer]] can force the **Property Owner** to lower the market price of their [[Government#Requests for Expensive Assets|expensive asset]] by 20% once each [[Election|electoral period]].
+#### Demolition
+A [[Property]] may be requested to be demolished 𝓇 repossessed by the [[Government]] via a vote in an [[Governmental Meetings|Governmental Meeting]]. Adequate compensation may be offered for the demolition of a [[Property]]. 
+
+A demolition notice must be provided to the [[Property Owner]]. 5 [[Taxes#Tax Period|Tax Periods]] must be given for the [[Property Owner]] to deny demolition.
+
+However, demolition cannot be forced by the [[Government]] unless a [[Property Owner]] has let their [[Property]] sit unused for 20 or more [[Taxes#Tax Period|Tax Periods]]╌and the [[Property Owner]] is given 3 consecutive demolition notices with 3 [[Taxes#Tax Period|Tax Periods]] in between each notice after the initial 20╌which is not denied.
 
 ---
 ## Property Owner Rights
@@ -65,13 +77,13 @@ The **Property Owner** also cannot increase rent or punish members of their [[Pr
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]]*
 #### Right to Request a Subsurface Land Provision 
 **Property Owners** have the right to request a [[Subsurface Land Provisions|Subsurface Land Provision]]. A player must speak with an [[Elected Officials#Elected Official|Elected Official]] and agree upon a provision [[Terminology Around Coordinates|Y]] level. Afterwards, the **Property Owner** must following the [[Subsurface Land Provisions#Signage Requirement|subsurface land provision signage requirement]] for the provision to be valid.
-#### Right to Trade Land
+#### Right to Trade Land 
 **Property Owners** have the right to trade land with other **Property Owners** or **Citizens** who wish to acquire land in trade. When land is traded, so is it's ownership and hence [[Taxes]].
 #### Setting Rules for Shared Property
 **Property Owners** are able to set any [[#Personal Property Rules]] they please when hosting other members in their [[Property#Shared Private Property|Shared Private Property]] as long as the rules follow [[#Personal Property Rules|personal property rules regulations]].
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]], meaning that rules [[Property Owner|Owned Property Owners]] make are not legally enforceable by the [[Government]]*
 #### Enforcing Members to Participate Collaborative Assignments
-**Property Owners** are allowed to enforce the participation of [[Assignments#Collaborative Assignments|Collaborative Assignments]] on members of the [[Property#Shared private Property|Shared Private Property]], however they cannot enforce completion.
+**Property Owners** are allowed to enforce the participation of [[Assignments#Collaborative Assignments|Collaborative Assignments]] on members (those which hold permanent [[Government#Request for or Issuing of a Primary Residence|primary residence]] in this [[Property]]) of the [[Property#Shared private Property|Shared Private Property]], however they cannot enforce completion.
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]]*
 #### Right to Provision Property Work
 **Property Owners** are allowed to provision other [[Citizen|Citizens]] to work on their [[Property#Private Property|Private Property]]. In this case the **Property Owner** can allow the working [[Citizen]] to enter without asking for entry permission for the term of construction.
@@ -79,4 +91,6 @@ The **Property Owner** also cannot increase rent or punish members of their [[Pr
 A **Property Owner** may ignore [[#Personal Property Rules]] that they have set on their own [[Property]] while inside of it and cannot be [[Fines|Fined]] or punished regarding this matter.
 *This rule is not valid if the property is an [[Property#Owned Property|Owned Property]]*
 #### Right to Request a Private Nether Highway Extension
-A **Property Owner** has the right to request a [[Nether Highways#Private Nether Tunnel Extensions|Private Nether Tunnel Extension]].
+A **Property Owner** has the right to request a [[Nether Highways#Private Nether Tunnel Extensions|Private Nether Tunnel Extension]]. Submitting continuous request which continually receive denial is considered a [[Crime]].
+#### Right to Abandon Property
+A **Property Owner** has the right to abandon their [[Property]] at any point as long as it's not a [[Property#Shared Private Property|Shared Private Property]] which requires the approval of a majority of members of the [[Property]]. An abandoned [[Property]] moves into the possession of the [[Government]] which must give 2 [[Taxes#Tax Period|Tax Periods]] before claiming all assets of the [[Land]] after which the [[Property]] becomes a [[Property#Public Property|Public Property]].

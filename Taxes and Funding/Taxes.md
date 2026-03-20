@@ -51,17 +51,23 @@ The **Default Tax Amount** is the amount of **Taxes** that is paid by default.
 
 If a **Default Tax Amount** comes out with more than 2 decimals, it should be rounded to 2 decimal places.
 #### For Citizens who are *not* Property Owners
-[[Citizen|Citizens]] who are not [[Property Owner|Property Owners]] owe the [[Government]] a tax of 3 Diamonds for every 27 stacks of items they own in storage containers (not including shulker boxes and ender chests).
+[[Citizen|Citizens]] who are not [[Property Owner|Property Owners]] owe the [[Government]] a tax of 2 Diamonds for every 27 stacks of items they own in storage containers (not including shulker boxes and ender chests). A stack is defined as a Minecraft item slot which contains something.
 > [!math]
 > $$ \begin{align*}
 >  & \text{Let } m \text{ be the amount of item stacks a player stores in containers at their Primary Residence.} \\
 > \\
-> & \text{Let } d = \lfloor \frac{m}{27} \rfloor * 3 \text{ be the final, default tax amount a Citizen owes.} \\
+> & \text{Let } d = \lfloor \frac{m}{27} \rfloor * 2 \text{ be the final, default tax amount a Citizen owes.} \\
 > \end{align*} $$
 
-If a [[Citizen]] is not a [[Property Owner]] and also doesn't own at least 27 stacks of items in storage containers (not including shulker boxes and ender chests) they owe a flat value of 5 Diamonds to the [[Government]]. This counts as a **Default Tax Amount**.
-
-A stack is defined as a Minecraft item slot which contains something.
+If a [[Citizen]] is not a [[Property Owner]] and also doesn't own at least 27 stacks of items in storage containers (not including shulker boxes and ender chests) they owe a value starting at  2 Diamonds, and growing by 1 more Diamond for every tax period they do not possess items that they are active. 
+> [!Math]
+> $$ \begin{align*} 
+> & \text{Let } t \text{ be the amount of Tax Periods passed that the user has been active in while not possessing} \\
+> & \text{any items and residing in a homeless shelter.} \\
+> \\
+> & \text{Let } d = t + 1 \text{ be the final, default tax amount a Citizen owes.}
+> \end{align*}
+> $$
 #### For Citizens who are Property Owners
 The equation below describes how to tax [[Citizen|Citizens]] with different types of [[Property|Properties]]. 
 Generally speaking:
@@ -117,6 +123,18 @@ All increases and decreases are added together before being applied to the [[Pro
 > \\
 > & \text{Let } p = x * (1 + (\sum_{i} U_i)) \text{ be the Property Metric with all applicable incentives applied.}
 > \end{align*} $$
+
+---
+#### City Streets Incentive
+The **City Streets Incentive** aims to allow a [[City]] to have sprawling streets without worry of excessive taxation.
+
+A piece of [[Land]] which is part of a [[City]] as a 
+
+---
+#### City Participation Incentive
+The **City Participation Incentive** aims to allow **Taxes** on [[City]] [[Land]] to only be collected for active [[Citizen|Citizens]] [[Land]] within the [[City]].
+
+[[Land]] within a [[City]] which is owned by a [[Property Co-Owner]] which was not active in the current [[Taxes#Tax Period|Tax Period]] are negated from **Taxes**. Additionally, unowned [[Property]] blocks within a [[City]] are negated from **Taxes**.
 
 ---
 #### Below the Ice Incentive

@@ -2,7 +2,7 @@
 aliases:
   - Citizens
 ---
-A **Citizen** is also any player who's [[#Right to be Issued a Primary Residence|Primary Residence]] is located in [[Land#Jurisdictional Land|Jurisdictional Land]]. 
+A **Citizen** is any player who's [[#Right to be Issued a Primary Residence|Primary Residence]] is located in [[Land#Jurisdictional Land|Jurisdictional Land]]. 
 A player is still considered a **Citizen** until the end of the currently ongoing [[Taxes#Tax Period|Tax Period]] after they have no [[#Right to be Issued a Primary Residence|Primary Residence]] in [[Land#Jurisdictional Land|Jurisdictional Land]].
 
 ---
@@ -61,3 +61,9 @@ A **Citizen** can also request to have their payment as a [[Bonds|Bond]] or [[Bo
 A **Citizen** may exchange [[Bonds#Physical Bonds|Physical Bonds]] for physical currency or [[Bonds#Bonds|Bonds]] through the [[Government]]. 
 #### Right to Request Grants
 A **Citizen** can request a [[Grants|Grant]] via the [[Grants#Grant Applications|Grant Applications]] process.
+#### Call for Monopoly or Oligopoly Breakage
+A **Citizen** has the right to call out a monopoly or oligopoly on a particular asset. The monopoly status must be verified with a [[Governmental Meetings#Citizen Meeting|Citizen Meeting]]. A **Citizen** cannot call for breakage if the asset of the monopoly or oligopoly is already enrolled in the [[Government#Requests for Expensive Assets|expensive assets distribution plan]]. A **Citizen** requestor instead needs to use a [[Governmental Meetings|Governmental Meeting]] for monopoly or oligopoly approval if they are an [[Elected Officials#Elected Official|Elected Official]].
+
+Once approved, the [[Elected Officials]] must create a system to break down the monopoly or oligopoly via a [[Governmental Meetings|Governmental Meeting]]. Once completed, this system must be approved by [[Governmental Meetings#Citizen Meeting|Citizen Meeting]] else it must be amended until it is approved. A **Citizen** requestor instead needs to use a [[Governmental Meetings|Governmental Meeting]] for system approval if they are an [[Elected Officials#Elected Official|Elected Official]]. 
+#### Right to Request Foundation of a City
+A **Citizen** has the right to request foundation of a [[City]].
